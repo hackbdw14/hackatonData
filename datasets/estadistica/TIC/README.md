@@ -1,11 +1,11 @@
-A.csv
+A.tsv
 =====
 
 Equipamiento TIC en casa por distritos
 
 http://www.bcn.cat/estadistica/catala/dades/anuari/cap19/C190104.htm
 
-B.csv
+Otros
 ==============
 
 WI-FI Hotspots
