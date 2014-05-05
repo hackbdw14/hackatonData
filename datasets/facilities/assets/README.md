@@ -1,5 +1,5 @@
- Facilities en RDF
- =================
+ Facilities originales en RDF
+---------------
 
  Educacion
  http://opendata.bcn.cat/opendata/en/catalog/EDUCACIO/equipamenteducacio/
