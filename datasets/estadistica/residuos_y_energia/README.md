@@ -1,19 +1,19 @@
 A.csv
-=====
+-----
 
 Energía y cambio climático. Barcelona, por años (consumos de energía, emisión de CO2 por habitante, % energía renovable, etc..)
 
 http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0103100.htm
 
 B.csv
-=====
+-----
 
 Agenda 21 (sostenibilidad) [consumo de agua, kg de residuos, kg recogida selectiva,playas, renovación urbana, zona verde por habitante]
 
 http://www.bcn.cat/estadistica/catala/dades/anuari/cap01/C0103090.htm
 
 C.csv
-=====
+------
 
 Papeleras, Contenedores y recogida en kilos de residuo, por distrito y año
 
