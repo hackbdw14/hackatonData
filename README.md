@@ -1,7 +1,7 @@
 Material para hackaton #bdw14 en Barcelona
 ------------------
 
-(9-11 de Mayo, CCCB)
+9-11 de Mayo, CCCB.
 
 Todos los datasets proceden de fuentes abiertas y con licencia pública
 
