@@ -9,6 +9,6 @@ En [datasets](/datasets) encontrarás los datasets provistos para el hackaton
 
 En [talleres](/talleres) encontrarás el material de los talleres
 
-Si tienes alguna duda, puedes contactarnos en la dirección de correo hackbdw14@gmail.com o en @hackbdw14 en Twitter
+Si tienes alguna duda, puedes contactarnos en la dirección de correo hackbdw14@gmail.com o en [@hackbdw14](https://twitter.com/hackbdw14) en Twitter
 
 
