@@ -10,6 +10,4 @@ WI-FI Hotspots
 
 http://opendata.bcn.cat/opendata/en/catalog/CIENCIA_I_TECNOLOGIA/puntswifi/
 
-(verificar que el UTM se abre en cartoDB y si no, convertir a lat,long)
-
 
