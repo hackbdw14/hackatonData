@@ -1,0 +1,683 @@
+id,lat,lon,address,created,district,name,neighborhood,postalCode,cat
+297122514,41.44552013333333,2.202341638888889,C Caracas 46,2000-10-23T00:00:00Z,Sant Andreu,Punt Verd de Zona - Deixalleria Sant Andreu,el Bon Pastor,08030,Medi ambient
+297122514,41.44552013333333,2.202341638888889,C Caracas 46,2000-10-23T00:00:00Z,Sant Andreu,Punt Verd de Zona - Deixalleria Sant Andreu,el Bon Pastor,08030,Medi ambient
+297122918,41.38884918888889,2.10824375,Av Esplugues 58*60,2000-10-23T00:00:00Z,Les Corts,Punt Verd de Zona - Deixalleria de Les Corts-Pedralbes,Pedralbes,08034,Medi ambient
+297122918,41.38884918888889,2.10824375,Av Esplugues 58*60,2000-10-23T00:00:00Z,Les Corts,Punt Verd de Zona - Deixalleria de Les Corts-Pedralbes,Pedralbes,08034,Medi ambient
+297123401,41.46499263055556,2.186013083333333,Castelladral 6*10,2000-10-23T00:00:00Z,Nou Barris,Punt Verd de Zona - Deixalleria de Vallbona,Vallbona,08033,Medi ambient
+297123401,41.46499263055556,2.186013083333333,Castelladral 6*10,2000-10-23T00:00:00Z,Nou Barris,Punt Verd de Zona - Deixalleria de Vallbona,Vallbona,08033,Medi ambient
+70162132,41.39330316666667,2.13726275,Bori i Fontestà 32,2000-03-10T00:00:00Z,Sarrià-Sant Gervasi,Dipòsit d'aigües pluvials *Bori i Fontestà,Sant Gervasi - Galvany,08017,Medi ambient
+70162132,41.39330316666667,2.13726275,Bori i Fontestà 32,2000-03-10T00:00:00Z,Sarrià-Sant Gervasi,Dipòsit d'aigües pluvials *Bori i Fontestà,Sant Gervasi - Galvany,08017,Medi ambient
+70162504,41.382398025,2.1163368333333334,Baldiri Reixac 1,2000-03-10T00:00:00Z,Les Corts,Dipòsit d'aigües pluvials *Baldiri Reixac,la Maternitat i Sant Ramon,08028,Medi ambient
+70162504,41.382398025,2.1163368333333334,Baldiri Reixac 1,2000-03-10T00:00:00Z,Les Corts,Dipòsit d'aigües pluvials *Baldiri Reixac,la Maternitat i Sant Ramon,08028,Medi ambient
+75990029216,41.403629699999996,2.1563915277777777,C Guilleries 24 bxs 2a,1996-09-17T00:00:00Z,Gràcia,Punt Verd de Barri Col·laborador - Recuperació per al Reciclatge Tabuenca,la Vila de Gràcia,08012,Medi ambient
+75990029216,41.403629699999996,2.1563915277777777,C Guilleries 24 bxs 2a,1996-09-17T00:00:00Z,Gràcia,Punt Verd de Barri Col·laborador - Recuperació per al Reciclatge Tabuenca,la Vila de Gràcia,08012,Medi ambient
+75990068722,41.38781923888889,2.1788813888888887,C Jaume Giralt 49 bxs,1996-09-18T00:00:00Z,Ciutat Vella,Punt Verd de Barri Col·laborador-Recuperació per al Reciclatge Can Basilio,"Sant Pere, Santa Caterina i la Ribera",08003,Medi ambient
+75990068722,41.38781923888889,2.1788813888888887,C Jaume Giralt 49 bxs,1996-09-18T00:00:00Z,Ciutat Vella,Punt Verd de Barri Col·laborador-Recuperació per al Reciclatge Can Basilio,"Sant Pere, Santa Caterina i la Ribera",08003,Medi ambient
+94075112530,41.41623887777778,2.1361868611111112,C Collserola 2,1994-03-16T00:00:00Z,Gràcia,Punt Verd de Zona - Deixalleria de Collserola,Vallcarca i els Penitents,08035,Medi ambient
+94075112530,41.41623887777778,2.1361868611111112,C Collserola 2,1994-03-16T00:00:00Z,Gràcia,Punt Verd de Zona - Deixalleria de Collserola,Vallcarca i els Penitents,08035,Medi ambient
+98162102313,41.35502710277778,2.1397920555555556,Foc 56,1998-06-11T00:00:00Z,Sants-Montjuïc,Punt Verd de Zona - Deixalleria de Montjuïc,la Marina del Prat Vermell,08038,Medi ambient
+98162102313,41.35502710277778,2.1397920555555556,Foc 56,1998-06-11T00:00:00Z,Sants-Montjuïc,Punt Verd de Zona - Deixalleria de Montjuïc,la Marina del Prat Vermell,08038,Medi ambient
+99050094556,41.38792821111111,2.1482306666666666,Viladomat 282,1999-02-19T00:00:00Z,Eixample,Dipòsit d'aigües pluvials *Viladomat,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99050094556,41.38792821111111,2.1482306666666666,Viladomat 282,1999-02-19T00:00:00Z,Eixample,Dipòsit d'aigües pluvials *Viladomat,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99138133135,41.431413625,2.1533201666666666,C Jorge Manrique 2,1999-05-18T00:00:00Z,Horta-Guinardó,Punt Verd de Zona - Deixalleria Vall d'Hebron,la Vall d'Hebron,08035,Medi ambient
+99138133135,41.431413625,2.1533201666666666,C Jorge Manrique 2,1999-05-18T00:00:00Z,Horta-Guinardó,Punt Verd de Zona - Deixalleria Vall d'Hebron,la Vall d'Hebron,08035,Medi ambient
+99151103536,41.429862005555556,2.077791166666667,Camí Can Balasch 85,1999-05-31T00:00:00Z,Sarrià-Sant Gervasi,Consorci del Parc Natural de la Serra de Collserola,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99151103536,41.429862005555556,2.077791166666667,Camí Can Balasch 85,1999-05-31T00:00:00Z,Sarrià-Sant Gervasi,Consorci del Parc Natural de la Serra de Collserola,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400027263,41.40707599444444,2.1895537777777774,C Escultors Claperós 51 bxs,2002-11-18T10:03:00Z,Sant Martí,Punt Verd de Barri - Clot,el Clot,08018,Medi ambient
+99400027263,41.40707599444444,2.1895537777777774,C Escultors Claperós 51 bxs,2002-11-18T10:03:00Z,Sant Martí,Punt Verd de Barri - Clot,el Clot,08018,Medi ambient
+99400028442,41.41602225555555,2.1017758055555555,C Reis Catòlics 40,2002-11-29T10:14:00Z,Sarrià-Sant Gervasi,Punt Verd de Barri - Vallvidrera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400028442,41.41602225555555,2.1017758055555555,C Reis Catòlics 40,2002-11-29T10:14:00Z,Sarrià-Sant Gervasi,Punt Verd de Barri - Vallvidrera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400034570,41.380644600000004,2.1283889722222225,G.V. Carles III 25,2003-02-25T12:05:00Z,Les Corts,Dipòsit d'aigües pluvials *Jardins dels Doctors Dolsa,la Maternitat i Sant Ramon,08028,Medi ambient
+99400034570,41.380644600000004,2.1283889722222225,G.V. Carles III 25,2003-02-25T12:05:00Z,Les Corts,Dipòsit d'aigües pluvials *Jardins dels Doctors Dolsa,la Maternitat i Sant Ramon,08028,Medi ambient
+99400035494,41.40501550277778,2.1757318888888886,C Lepant 281*283,2003-03-11T14:06:00Z,Eixample,Punt Verd de Barri - Sagrada Família,la Sagrada Família,08013,Medi ambient
+99400035494,41.40501550277778,2.1757318888888886,C Lepant 281*283,2003-03-11T14:06:00Z,Eixample,Punt Verd de Barri - Sagrada Família,la Sagrada Família,08013,Medi ambient
+99400035497,41.42825268611111,2.1887704166666664,C Rovira i Virgili 14,2003-03-11T14:23:00Z,Sant Andreu,Punt Verd de Barri - Sant Andreu,Sant Andreu,08030,Medi ambient
+99400035497,41.42825268611111,2.1887704166666664,C Rovira i Virgili 14,2003-03-11T14:23:00Z,Sant Andreu,Punt Verd de Barri - Sant Andreu,Sant Andreu,08030,Medi ambient
+99400035611,41.43621409444444,2.1668822777777774,C Vilalba dels Arcs 1,2003-03-13T10:29:00Z,Nou Barris,Dipòsit d'aigües pluvials *Parc Central de Nou Barris,Can Peguera,08042,Medi ambient
+99400035611,41.43621409444444,2.1668822777777774,C Vilalba dels Arcs 1,2003-03-13T10:29:00Z,Nou Barris,Dipòsit d'aigües pluvials *Parc Central de Nou Barris,Can Peguera,08042,Medi ambient
+99400038444,41.37429326666667,2.1728396666666665,C Palaudàries 12,2003-04-29T10:07:00Z,Sants-Montjuïc,Punt Verd de Barri - Poble-sec,el Poble-sec,08004,Medi ambient
+99400038444,41.37429326666667,2.1728396666666665,C Palaudàries 12,2003-04-29T10:07:00Z,Sants-Montjuïc,Punt Verd de Barri - Poble-sec,el Poble-sec,08004,Medi ambient
+99400038990,41.41451107222222,2.172698583333333,C Mas Casanovas 74,2003-05-07T10:10:00Z,Horta-Guinardó,Punt Verd de Barri - Horta-Guinardó,el Guinardó,08041,Medi ambient
+99400038990,41.41451107222222,2.172698583333333,C Mas Casanovas 74,2003-05-07T10:10:00Z,Horta-Guinardó,Punt Verd de Barri - Horta-Guinardó,el Guinardó,08041,Medi ambient
+99400046207,41.399098027777775,2.1534346388888888,Pl Gal.la Placídia 12,2003-06-18T09:36:00Z,Gràcia,Punt Verd de Barri - Gal·la Placídia,la Vila de Gràcia,08006,Medi ambient
+99400046207,41.399098027777775,2.1534346388888888,Pl Gal.la Placídia 12,2003-06-18T09:36:00Z,Gràcia,Punt Verd de Barri - Gal·la Placídia,la Vila de Gràcia,08006,Medi ambient
+99400071223,41.3889078,2.1055086944444446,C Torrent de les Roses 1,2004-01-12T14:20:00Z,Les Corts,Contenidor de Sal *Torrent Roses - Ardena,Pedralbes,08034,Medi ambient
+99400071223,41.3889078,2.1055086944444446,C Torrent de les Roses 1,2004-01-12T14:20:00Z,Les Corts,Contenidor de Sal *Torrent Roses - Ardena,Pedralbes,08034,Medi ambient
+99400073159,41.376032280555556,2.147750916666667,C Diputació 7,2004-02-06T14:00:00Z,Sants-Montjuïc,Dipòsit d'aigües pluvials *Parc Joan Miró,Hostafrancs,08014,Medi ambient
+99400073159,41.376032280555556,2.147750916666667,C Diputació 7,2004-02-06T14:00:00Z,Sants-Montjuïc,Dipòsit d'aigües pluvials *Parc Joan Miró,Hostafrancs,08014,Medi ambient
+99400074645,41.44297589722222,2.1839291666666663,C Tissó 18,2004-02-26T18:11:00Z,Nou Barris,Punt Verd Mòbil *Plaça Verda de la Prosperitat,la Prosperitat,08016,Medi ambient
+99400074645,41.44297589722222,2.1839291666666663,C Tissó 18,2004-02-26T18:11:00Z,Nou Barris,Punt Verd Mòbil *Plaça Verda de la Prosperitat,la Prosperitat,08016,Medi ambient
+99400074649,41.39396867777778,2.1331548055555554,Rda General Mitre 28*36,2004-02-26T18:23:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Ronda General Mitre,les Tres Torres,08017,Medi ambient
+99400074649,41.39396867777778,2.1331548055555554,Rda General Mitre 28*36,2004-02-26T18:23:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Ronda General Mitre,les Tres Torres,08017,Medi ambient
+99400074651,41.44966494722222,2.1906964999999996,Pl Trinitat 8,2004-02-26T18:29:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Trinitat,la Trinitat Vella,08033,Medi ambient
+99400074651,41.44966494722222,2.1906964999999996,Pl Trinitat 8,2004-02-26T18:29:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Trinitat,la Trinitat Vella,08033,Medi ambient
+99400074652,41.42403196944444,2.142434333333333,Pg Vall d'Hebron 130,2004-02-26T18:37:00Z,Horta-Guinardó,Punt Verd Mòbil *Mercat Vall d'Hebron,la Teixonera,08035,Medi ambient
+99400074652,41.42403196944444,2.142434333333333,Pg Vall d'Hebron 130,2004-02-26T18:37:00Z,Horta-Guinardó,Punt Verd Mòbil *Mercat Vall d'Hebron,la Teixonera,08035,Medi ambient
+99400074654,41.43558473333333,2.1724374166666665,Pg Verdum 2,2004-02-26T18:39:00Z,Nou Barris,Punt Verd Mòbil *Plaça Madres de la Plaza de Mayo,Porta,08016,Medi ambient
+99400074654,41.43558473333333,2.1724374166666665,Pg Verdum 2,2004-02-26T18:39:00Z,Nou Barris,Punt Verd Mòbil *Plaça Madres de la Plaza de Mayo,Porta,08016,Medi ambient
+99400074656,41.420537499999995,2.1811745555555553,Pl Maragall 14,2004-02-26T18:44:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Maragall,el Congrés i els Indians,08027,Medi ambient
+99400074656,41.420537499999995,2.1811745555555553,Pl Maragall 14,2004-02-26T18:44:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Maragall,el Congrés i els Indians,08027,Medi ambient
+99400074662,41.43003037222222,2.174256972222222,Pl Virrei Amat 6,2004-02-26T18:52:00Z,Nou Barris,Punt Verd Mòbil *Plaça Virrei Amat,Vilapicina i la Torre Llobeta,08031,Medi ambient
+99400074662,41.43003037222222,2.174256972222222,Pl Virrei Amat 6,2004-02-26T18:52:00Z,Nou Barris,Punt Verd Mòbil *Plaça Virrei Amat,Vilapicina i la Torre Llobeta,08031,Medi ambient
+99400074664,41.431225291666664,2.1498941944444443,C Jorge Manrique 15,2004-02-26T18:54:00Z,Horta-Guinardó,Punt Verd Mòbil *Jorge Manrique-Ventura Rodríguez,la Vall d'Hebron,08035,Medi ambient
+99400074664,41.431225291666664,2.1498941944444443,C Jorge Manrique 15,2004-02-26T18:54:00Z,Horta-Guinardó,Punt Verd Mòbil *Jorge Manrique-Ventura Rodríguez,la Vall d'Hebron,08035,Medi ambient
+99400074713,41.42275031944444,2.1850314999999996,C Olesa 43,2004-02-27T11:41:00Z,Sant Andreu,Punt Verd Mòbil *Mercat Felip II,la Sagrera,08027,Medi ambient
+99400074713,41.42275031944444,2.1850314999999996,C Olesa 43,2004-02-27T11:41:00Z,Sant Andreu,Punt Verd Mòbil *Mercat Felip II,la Sagrera,08027,Medi ambient
+99400074714,41.432850375,2.142954,C Joan Sales 3*LX,2004-02-27T11:46:00Z,Horta-Guinardó,Punt Verd Mòbil *Joan Sales-Poesia,Montbau,08035,Medi ambient
+99400074714,41.432850375,2.142954,C Joan Sales 3*LX,2004-02-27T11:46:00Z,Horta-Guinardó,Punt Verd Mòbil *Joan Sales-Poesia,Montbau,08035,Medi ambient
+99400074716,41.44245006944444,2.1777777499999997,Via Júlia 111,2004-02-27T11:51:00Z,Nou Barris,Punt Verd Mòbil *Via Júlia-Plaça Francesc Layret,Verdun,08042,Medi ambient
+99400074716,41.44245006944444,2.1777777499999997,Via Júlia 111,2004-02-27T11:51:00Z,Nou Barris,Punt Verd Mòbil *Via Júlia-Plaça Francesc Layret,Verdun,08042,Medi ambient
+99400074722,41.430194094444445,2.1930845277777777,Rbla Onze de Setembre 38,2004-02-27T12:00:00Z,Sant Andreu,Punt Verd Mòbil *Rambla Onze Setembre-Santa Coloma,Sant Andreu,08030,Medi ambient
+99400074722,41.430194094444445,2.1930845277777777,Rbla Onze de Setembre 38,2004-02-27T12:00:00Z,Sant Andreu,Punt Verd Mòbil *Rambla Onze Setembre-Santa Coloma,Sant Andreu,08030,Medi ambient
+99400074723,41.41725215555555,2.18635375,C Biscaia 361,2004-02-27T12:04:00Z,Sant Andreu,Punt Verd Mòbil *Biscaia-Avinguda Meridiana,Navas,08027,Medi ambient
+99400074723,41.41725215555555,2.18635375,C Biscaia 361,2004-02-27T12:04:00Z,Sant Andreu,Punt Verd Mòbil *Biscaia-Avinguda Meridiana,Navas,08027,Medi ambient
+99400074727,41.43862234722222,2.1702280555555555,Pg Valldaura 186,2004-02-27T12:10:00Z,Nou Barris,Punt Verd Mòbil *Mercat Guineueta,la Guineueta,08042,Medi ambient
+99400074727,41.43862234722222,2.1702280555555555,Pg Valldaura 186,2004-02-27T12:10:00Z,Nou Barris,Punt Verd Mòbil *Mercat Guineueta,la Guineueta,08042,Medi ambient
+99400074728,41.420261374999995,2.1511854166666664,C Santuari 27,2004-02-27T12:13:00Z,Horta-Guinardó,Punt Verd Mòbil *Santuari,el Carmel,08032,Medi ambient
+99400074728,41.420261374999995,2.1511854166666664,C Santuari 27,2004-02-27T12:13:00Z,Horta-Guinardó,Punt Verd Mòbil *Santuari,el Carmel,08032,Medi ambient
+99400074731,41.42608544444444,2.180839222222222,Pl Congrés Eucarístic 10,2004-02-27T12:17:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Congrés Eucarístic,el Congrés i els Indians,08027,Medi ambient
+99400074731,41.42608544444444,2.180839222222222,Pl Congrés Eucarístic 10,2004-02-27T12:17:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Congrés Eucarístic,el Congrés i els Indians,08027,Medi ambient
+99400075165,41.39390603611111,2.155687972222222,C Còrsega 273,2004-03-02T17:16:00Z,Eixample,Contenidor de Roba Amiga *Oficines Diputació de Barcelona,l'Antiga Esquerra de l'Eixample,08008,Medi ambient
+99400075165,41.39390603611111,2.155687972222222,C Còrsega 273,2004-03-02T17:16:00Z,Eixample,Contenidor de Roba Amiga *Oficines Diputació de Barcelona,l'Antiga Esquerra de l'Eixample,08008,Medi ambient
+99400075166,41.372067522222224,2.1625299166666667,Pl Sortidor 12,2004-03-02T17:18:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Centre de Serveis Socials del Poble-sec,el Poble Sec,08004,Medi ambient
+99400075166,41.372067522222224,2.1625299166666667,Pl Sortidor 12,2004-03-02T17:18:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Centre de Serveis Socials del Poble-sec,el Poble Sec,08004,Medi ambient
+99400075167,41.37302128611111,2.156419777777778,C Mare de Déu del Remei 38,2004-03-02T17:19:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Parròquia Mare de Déu del Remei,el Poble Sec,08004,Medi ambient
+99400075167,41.37302128611111,2.156419777777778,C Mare de Déu del Remei 38,2004-03-02T17:19:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Parròquia Mare de Déu del Remei,el Poble Sec,08004,Medi ambient
+99400075168,41.37282694722222,2.164352722222222,C Elkano 24,2004-03-02T17:24:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Casal Roser,el Poble Sec,08004,Medi ambient
+99400075168,41.37282694722222,2.164352722222222,C Elkano 24,2004-03-02T17:24:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Casal Roser,el Poble Sec,08004,Medi ambient
+99400075170,41.37496484444444,2.1481124444444446,Pl Espanya 5,2004-03-02T17:36:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Institut Municipal d'Educació,Hostafrancs,08014,Medi ambient
+99400075170,41.37496484444444,2.1481124444444446,Pl Espanya 5,2004-03-02T17:36:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Institut Municipal d'Educació,Hostafrancs,08014,Medi ambient
+99400075171,41.37282694722222,2.164352722222222,C Elkano 24*26,2004-03-02T17:38:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Coordinadora d'Entitats Poble-sec,el Poble Sec,08004,Medi ambient
+99400075171,41.37282694722222,2.164352722222222,C Elkano 24*26,2004-03-02T17:38:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Coordinadora d'Entitats Poble-sec,el Poble Sec,08004,Medi ambient
+99400075173,41.39780037777778,2.1518613055555553,C Balmes 208 bxs,2004-03-02T17:42:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Escoles Pia Balmes,Sant Gervasi - Galvany,08006,Medi ambient
+99400075173,41.39780037777778,2.1518613055555553,C Balmes 208 bxs,2004-03-02T17:42:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Escoles Pia Balmes,Sant Gervasi - Galvany,08006,Medi ambient
+99400075174,41.40231490833333,2.121250416666667,C Margenat 19,2004-03-02T17:44:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Colegi Sant Marc de Sarrià,Sarrià,08017,Medi ambient
+99400075174,41.40231490833333,2.121250416666667,C Margenat 19,2004-03-02T17:44:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Colegi Sant Marc de Sarrià,Sarrià,08017,Medi ambient
+99400075175,41.4018405,2.1430796666666665,C Copèrnic 84,2004-03-02T17:45:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga *IES Montserrat,Sant Gervasi - Galvany,08006,Medi ambient
+99400075175,41.4018405,2.1430796666666665,C Copèrnic 84,2004-03-02T17:45:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga *IES Montserrat,Sant Gervasi - Galvany,08006,Medi ambient
+99400075176,41.408988783333335,2.1109719166666667,Av Vallvidrera 68,2004-03-02T17:46:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Col·legi Monserrat,Sarrià,08017,Medi ambient
+99400075176,41.408988783333335,2.1109719166666667,Av Vallvidrera 68,2004-03-02T17:46:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Col·legi Monserrat,Sarrià,08017,Medi ambient
+99400075184,41.42686749166666,2.1374475555555557,Av Jordà 27,2004-03-02T18:02:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Centre Cívic Casa Groga,Sant Genís dels Agudells,08035,Medi ambient
+99400075184,41.42686749166666,2.1374475555555557,Av Jordà 27,2004-03-02T18:02:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Centre Cívic Casa Groga,Sant Genís dels Agudells,08035,Medi ambient
+99400075190,41.442931474999995,2.1659366388888888,C Miguel Hernández 20 bxs,2004-03-02T18:08:00Z,Nou Barris,Contenidor Roba Amiga * Escola Bressol Municipal El Vent,Canyelles,08042,Medi ambient
+99400075190,41.442931474999995,2.1659366388888888,C Miguel Hernández 20 bxs,2004-03-02T18:08:00Z,Nou Barris,Contenidor Roba Amiga * Escola Bressol Municipal El Vent,Canyelles,08042,Medi ambient
+99400075191,41.426555666666665,2.1737789999999997,C Santa Fe 2b,2004-03-02T18:09:00Z,Nou Barris,Contenidor Roba Amiga * Centre Cívic Torre Llobeta,Vilapicina i la Torre Llobeta,08031,Medi ambient
+99400075191,41.426555666666665,2.1737789999999997,C Santa Fe 2b,2004-03-02T18:09:00Z,Nou Barris,Contenidor Roba Amiga * Centre Cívic Torre Llobeta,Vilapicina i la Torre Llobeta,08031,Medi ambient
+99400075288,41.443498577777774,2.170865694444444,Via Favència 121,2004-03-03T12:25:00Z,Nou Barris,Contenidor Roba Amiga * Benzinera Favencia BP,Canyelles,08042,Medi ambient
+99400075288,41.443498577777774,2.170865694444444,Via Favència 121,2004-03-03T12:25:00Z,Nou Barris,Contenidor Roba Amiga * Benzinera Favencia BP,Canyelles,08042,Medi ambient
+99400075292,41.38623514166667,2.1294894444444443,C Joan Güell 209,2004-03-03T12:31:00Z,Les Corts,Contenidor Roba Amiga * Benzinera Repsol,les Corts,08028,Medi ambient
+99400075292,41.38623514166667,2.1294894444444443,C Joan Güell 209,2004-03-03T12:31:00Z,Les Corts,Contenidor Roba Amiga * Benzinera Repsol,les Corts,08028,Medi ambient
+99400075300,41.42367483611111,2.1584045277777775,C Agudells 37,2004-03-03T12:40:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Espai Jove Boca Nord,el Carmel,08032,Medi ambient
+99400075300,41.42367483611111,2.1584045277777775,C Agudells 37,2004-03-03T12:40:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Espai Jove Boca Nord,el Carmel,08032,Medi ambient
+99400075308,41.43478198055555,2.2049120833333333,Pl Robert Gerhard 3*4,2004-03-03T12:45:00Z,Sant Andreu,Contenidor Roba Amiga * Centre Cívic Bon Pastor,el Bon Pastor,08000,Medi ambient
+99400075308,41.43478198055555,2.2049120833333333,Pl Robert Gerhard 3*4,2004-03-03T12:45:00Z,Sant Andreu,Contenidor Roba Amiga * Centre Cívic Bon Pastor,el Bon Pastor,08000,Medi ambient
+99400075311,41.420261374999995,2.1511854166666664,C Santuari 27,2004-03-03T12:48:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Centre Cívic Carmel,el Carmel,08032,Medi ambient
+99400075311,41.420261374999995,2.1511854166666664,C Santuari 27,2004-03-03T12:48:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Centre Cívic Carmel,el Carmel,08032,Medi ambient
+99400075314,41.422635025,2.1445515,C Arenys 75,2004-03-03T12:49:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Centre Cívic Teixonera,la Teixonera,08035,Medi ambient
+99400075314,41.422635025,2.1445515,C Arenys 75,2004-03-03T12:49:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Centre Cívic Teixonera,la Teixonera,08035,Medi ambient
+99400075325,41.44077756666666,2.198467194444444,Pg Potosí 2,2004-03-03T13:02:00Z,Sant Andreu,Contenidor Roba Amiga * Centre Comercial La Maquinista,el Bon Pastor,08030,Medi ambient
+99400075325,41.44077756666666,2.198467194444444,Pg Potosí 2,2004-03-03T13:02:00Z,Sant Andreu,Contenidor Roba Amiga * Centre Comercial La Maquinista,el Bon Pastor,08030,Medi ambient
+99400075330,41.45378506666667,2.19393425,Via Bàrcino 1,2004-03-03T13:17:00Z,Sant Andreu,Contenidor Roba Amiga * Complex Esportiu Municipal Trinitat Vella,la Trinitat Vella,08033,Medi ambient
+99400075330,41.45378506666667,2.19393425,Via Bàrcino 1,2004-03-03T13:17:00Z,Sant Andreu,Contenidor Roba Amiga * Complex Esportiu Municipal Trinitat Vella,la Trinitat Vella,08033,Medi ambient
+99400075339,41.413095263888884,2.190687611111111,C València 690,2004-03-03T13:28:00Z,Sant Martí,Contenidor Roba Amiga * ETP el Clot,el Clot,08027,Medi ambient
+99400075339,41.413095263888884,2.190687611111111,C València 690,2004-03-03T13:28:00Z,Sant Martí,Contenidor Roba Amiga * ETP el Clot,el Clot,08027,Medi ambient
+99400075345,41.38354382222222,2.159147972222222,C Villarroel 60,2004-03-03T13:45:00Z,Eixample,Contenidor de Roba Amiga *Jardins Cèsar Martinell,l'Antiga Esquerra de l'Eixample,08011,Medi ambient
+99400075345,41.38354382222222,2.159147972222222,C Villarroel 60,2004-03-03T13:45:00Z,Eixample,Contenidor de Roba Amiga *Jardins Cèsar Martinell,l'Antiga Esquerra de l'Eixample,08011,Medi ambient
+99400075347,41.40051863611111,2.178957333333333,C Marina 197,2004-03-03T13:47:00Z,Eixample,Contenidor de Roba Amiga *Jardins Clotilde Cerdà,el Fort Pienc,08013,Medi ambient
+99400075347,41.40051863611111,2.178957333333333,C Marina 197,2004-03-03T13:47:00Z,Eixample,Contenidor de Roba Amiga *Jardins Clotilde Cerdà,el Fort Pienc,08013,Medi ambient
+99400075348,41.393724480555555,2.173557888888889,G.V. Corts Catalanes 659,2004-03-03T13:48:00Z,Eixample,Contenidor de Roba Amiga *Jardins Jaume Perich,la Dreta de l'Eixample,08010,Medi ambient
+99400075348,41.393724480555555,2.173557888888889,G.V. Corts Catalanes 659,2004-03-03T13:48:00Z,Eixample,Contenidor de Roba Amiga *Jardins Jaume Perich,la Dreta de l'Eixample,08010,Medi ambient
+99400075350,41.401009716666664,2.1800229166666667,C Diputació 463,2004-03-03T13:50:00Z,Eixample,Contenidor de Roba Amiga *Jardins Manuel de Pedrolo,el Fort Pienc,08013,Medi ambient
+99400075350,41.401009716666664,2.1800229166666667,C Diputació 463,2004-03-03T13:50:00Z,Eixample,Contenidor de Roba Amiga *Jardins Manuel de Pedrolo,el Fort Pienc,08013,Medi ambient
+99400075351,41.386369630555556,2.150192166666667,C Provença 101,2004-03-03T13:51:00Z,Eixample,Contenidor de Roba Amiga *Jardins Maria Mercè Marçal,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400075351,41.386369630555556,2.150192166666667,C Provença 101,2004-03-03T13:51:00Z,Eixample,Contenidor de Roba Amiga *Jardins Maria Mercè Marçal,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400075353,41.409025883333335,2.178437972222222,C Rosselló 488,2004-03-03T13:52:00Z,Eixample,Contenidor de Roba Amiga *Jardins Montserrat Roig,la Sagrada Família,08025,Medi ambient
+99400075353,41.409025883333335,2.178437972222222,C Rosselló 488,2004-03-03T13:52:00Z,Eixample,Contenidor de Roba Amiga *Jardins Montserrat Roig,la Sagrada Família,08025,Medi ambient
+99400075355,41.37911956944445,2.1533440277777776,C Rocafort 87,2004-03-03T13:54:00Z,Eixample,Contenidor de Roba Amiga *Jardins Sebastià Gasch,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400075355,41.37911956944445,2.1533440277777776,C Rocafort 87,2004-03-03T13:54:00Z,Eixample,Contenidor de Roba Amiga *Jardins Sebastià Gasch,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400075356,41.38260673333333,2.155506472222222,C Comte Borrell 157,2004-03-03T13:55:00Z,Eixample,Contenidor de Roba Amiga *Jardins d'Emma,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400075356,41.38260673333333,2.155506472222222,C Comte Borrell 157,2004-03-03T13:55:00Z,Eixample,Contenidor de Roba Amiga *Jardins d'Emma,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400075357,41.40241198611111,2.1219112222222223,C Carrasco i Formiguera 23,2004-03-03T13:56:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * IPFPEP Sant Ignasi - Sarrià Jesuites,Sarrià,08017,Medi ambient
+99400075357,41.40241198611111,2.1219112222222223,C Carrasco i Formiguera 23,2004-03-03T13:56:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * IPFPEP Sant Ignasi - Sarrià Jesuites,Sarrià,08017,Medi ambient
+99400075360,41.435725311111106,2.147140388888889,Pg Vall d'Hebron 171,2004-03-03T14:01:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Llars Mundet,Montbau,08007,Medi ambient
+99400075360,41.435725311111106,2.147140388888889,Pg Vall d'Hebron 171,2004-03-03T14:01:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Llars Mundet,Montbau,08007,Medi ambient
+99400075363,41.43598525555555,2.2061515833333334,C Sant Adrià 156,2004-03-03T14:03:00Z,Sant Andreu,Contenidor Roba Amiga * Mercat Bon Pastor,el Bon Pastor,08030,Medi ambient
+99400075363,41.43598525555555,2.2061515833333334,C Sant Adrià 156,2004-03-03T14:03:00Z,Sant Andreu,Contenidor Roba Amiga * Mercat Bon Pastor,el Bon Pastor,08030,Medi ambient
+99400075366,41.441828888888885,2.1640757777777777,C Antonio Machado 8,2004-03-03T14:10:00Z,Nou Barris,Contenidor Roba Amiga * Mercat Canyelles,Canyelles,08042,Medi ambient
+99400075366,41.441828888888885,2.1640757777777777,C Antonio Machado 8,2004-03-03T14:10:00Z,Nou Barris,Contenidor Roba Amiga * Mercat Canyelles,Canyelles,08042,Medi ambient
+99400075374,41.40568788611111,2.1770115555555556,C Padilla 255,2004-03-03T14:19:00Z,Eixample,Contenidor de Roba Amiga *Mercat Sagrada Família,la Sagrada Família,08013,Medi ambient
+99400075374,41.40568788611111,2.1770115555555556,C Padilla 255,2004-03-03T14:19:00Z,Eixample,Contenidor de Roba Amiga *Mercat Sagrada Família,la Sagrada Família,08013,Medi ambient
+99400075521,41.395697891666664,2.1693041666666666,C Aragó 313,2004-03-04T13:30:00Z,Eixample,Contenidor de Roba Amiga *Mercat Concepció,la Dreta de l'Eixample,08009,Medi ambient
+99400075521,41.395697891666664,2.1693041666666666,C Aragó 313,2004-03-04T13:30:00Z,Eixample,Contenidor de Roba Amiga *Mercat Concepció,la Dreta de l'Eixample,08009,Medi ambient
+99400075522,41.43862234722222,2.1702280555555555,Pg Valldaura 186,2004-03-04T13:31:00Z,Nou Barris,Contenidor Roba Amiga * Mercat de la Guineueta,la Guineueta,08042,Medi ambient
+99400075522,41.43862234722222,2.1702280555555555,Pg Valldaura 186,2004-03-04T13:31:00Z,Nou Barris,Contenidor Roba Amiga * Mercat de la Guineueta,la Guineueta,08042,Medi ambient
+99400075525,41.430452816666666,2.1735820277777775,Pg Fabra i Puig 270,2004-03-04T13:34:00Z,Nou Barris,Contenidor Roba Amiga * Mercat de la Mercè,el Turó de la Peira,08031,Medi ambient
+99400075525,41.430452816666666,2.1735820277777775,Pg Fabra i Puig 270,2004-03-04T13:34:00Z,Nou Barris,Contenidor Roba Amiga * Mercat de la Mercè,el Turó de la Peira,08031,Medi ambient
+99400075528,41.447964013888885,2.184282138888889,C Fosca 10,2004-03-04T13:35:00Z,Nou Barris,Contenidor Roba Amiga * Mercat de la Trinitat,la Trinitat Nova,08033,Medi ambient
+99400075528,41.447964013888885,2.184282138888889,C Fosca 10,2004-03-04T13:35:00Z,Nou Barris,Contenidor Roba Amiga * Mercat de la Trinitat,la Trinitat Nova,08033,Medi ambient
+99400075539,41.42403196944444,2.142434333333333,Pg Vall d'Hebron 130,2004-03-04T13:46:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Mercat Vall Hebron,la Teixonera,08035,Medi ambient
+99400075539,41.42403196944444,2.142434333333333,Pg Vall d'Hebron 130,2004-03-04T13:46:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Mercat Vall Hebron,la Teixonera,08035,Medi ambient
+99400075540,41.40220993611111,2.159360527777778,Trav Gràcia 186,2004-03-04T13:47:00Z,Gràcia,Contenidor de Roba Amiga *Mercat Abaceria,la Vila de Gràcia,08012,Medi ambient
+99400075540,41.40220993611111,2.159360527777778,Trav Gràcia 186,2004-03-04T13:47:00Z,Gràcia,Contenidor de Roba Amiga *Mercat Abaceria,la Vila de Gràcia,08012,Medi ambient
+99400075545,41.44629489722222,2.1787715,Via Favència 241,2004-03-04T13:51:00Z,Nou Barris,Contenidor Roba Amiga * Mercat de Montserrat,les Roquetes,08042,Medi ambient
+99400075545,41.44629489722222,2.1787715,Via Favència 241,2004-03-04T13:51:00Z,Nou Barris,Contenidor Roba Amiga * Mercat de Montserrat,les Roquetes,08042,Medi ambient
+99400075548,41.43489202777778,2.1883904166666666,Pl Mercadal 41,2004-03-04T13:52:00Z,Sant Andreu,Contenidor Roba Amiga * Mercat de Sant Andreu,Sant Andreu,08030,Medi ambient
+99400075548,41.43489202777778,2.1883904166666666,Pl Mercadal 41,2004-03-04T13:52:00Z,Sant Andreu,Contenidor Roba Amiga * Mercat de Sant Andreu,Sant Andreu,08030,Medi ambient
+99400075559,41.41381550277778,2.10415675,C Reis Catòlics 2,2004-03-04T13:57:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Mercat de Vallvidrera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400075559,41.41381550277778,2.10415675,C Reis Catòlics 2,2004-03-04T13:57:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Mercat de Vallvidrera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400075562,41.38782654166667,2.154394083333333,C Mallorca 133,2004-03-04T13:59:00Z,Eixample,Contenidor de Roba Amiga *Mercat Ninot,l'Antiga Esquerra de l'Eixample,08036,Medi ambient
+99400075562,41.38782654166667,2.154394083333333,C Mallorca 133,2004-03-04T13:59:00Z,Eixample,Contenidor de Roba Amiga *Mercat Ninot,l'Antiga Esquerra de l'Eixample,08036,Medi ambient
+99400075564,41.42959485555555,2.15959125,C Tajo 75,2004-03-04T14:00:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Mercat Horta,Horta,08032,Medi ambient
+99400075564,41.42959485555555,2.15959125,C Tajo 75,2004-03-04T14:00:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Mercat Horta,Horta,08032,Medi ambient
+99400075566,41.386119980555556,2.1790886944444443,Pl Joan Capri 1,2004-03-04T14:02:00Z,Ciutat Vella,Contenidor de Roba Amiga *Mercat de Santa Caterina,"Sant Pere, Santa Caterina i la Ribera",08003,Medi ambient
+99400075566,41.386119980555556,2.1790886944444443,Pl Joan Capri 1,2004-03-04T14:02:00Z,Ciutat Vella,Contenidor de Roba Amiga *Mercat de Santa Caterina,"Sant Pere, Santa Caterina i la Ribera",08003,Medi ambient
+99400075567,41.42392123888889,2.188204361111111,C Martí Molins 43,2004-03-04T14:08:00Z,Sant Andreu,Contenidor Roba Amiga * Parròquia de Crist Rei,la Sagrera,08027,Medi ambient
+99400075567,41.42392123888889,2.188204361111111,C Martí Molins 43,2004-03-04T14:08:00Z,Sant Andreu,Contenidor Roba Amiga * Parròquia de Crist Rei,la Sagrera,08027,Medi ambient
+99400075568,41.43133762222222,2.1873112777777775,C Vallès 40,2004-03-04T14:11:00Z,Sant Andreu,Contenidor Roba Amiga * Parroquia Sant Pacià,Sant Andreu,08030,Medi ambient
+99400075568,41.43133762222222,2.1873112777777775,C Vallès 40,2004-03-04T14:11:00Z,Sant Andreu,Contenidor Roba Amiga * Parroquia Sant Pacià,Sant Andreu,08030,Medi ambient
+99400075583,41.41780754166666,2.1029298333333335,C Reis Catòlics 38,2004-03-04T14:34:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Punt verd de Barri de Collserola,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400075583,41.41780754166666,2.1029298333333335,C Reis Catòlics 38,2004-03-04T14:34:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Punt verd de Barri de Collserola,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400075585,41.399098027777775,2.1534346388888888,Pl Gal.la Placídia 12,2004-03-04T14:35:00Z,Gràcia,Punt Verd de Barri - Gal·la Placídia,la Vila de Gràcia,08006,Medi ambient
+99400075585,41.399098027777775,2.1534346388888888,Pl Gal.la Placídia 12,2004-03-04T14:35:00Z,Gràcia,Punt Verd de Barri - Gal·la Placídia,la Vila de Gràcia,08006,Medi ambient
+99400075586,41.40501550277778,2.1757318888888886,C Lepant 283,2004-03-04T14:36:00Z,Eixample,Contenidor de Roba Amiga *Punt Verd Barri Sagrada Família,la Sagrada Família,08013,Medi ambient
+99400075586,41.40501550277778,2.1757318888888886,C Lepant 283,2004-03-04T14:36:00Z,Eixample,Contenidor de Roba Amiga *Punt Verd Barri Sagrada Família,la Sagrada Família,08013,Medi ambient
+99400075590,41.37445233611111,2.172411861111111,C Palaudàries 2,2004-03-04T14:37:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Punt Verd de Barri de Poble-sec,el Poble Sec,08004,Medi ambient
+99400075590,41.37445233611111,2.172411861111111,C Palaudàries 2,2004-03-04T14:37:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Punt Verd de Barri de Poble-sec,el Poble Sec,08004,Medi ambient
+99400075592,41.42825268611111,2.1887704166666664,C Rovira i Virgili 14,2004-03-04T14:39:00Z,Sant Andreu,Contenidor Roba Amiga *Punt Verd de Barri de Sant Andreu,Sant Andreu,08030,Medi ambient
+99400075592,41.42825268611111,2.1887704166666664,C Rovira i Virgili 14,2004-03-04T14:39:00Z,Sant Andreu,Contenidor Roba Amiga *Punt Verd de Barri de Sant Andreu,Sant Andreu,08030,Medi ambient
+99400075599,41.40701308333333,2.189168138888889,C Escultors Claperós 34,2004-03-04T14:52:00Z,Sant Martí,Contenidor Roba Amiga * Punt Verd de Barri del Clot,el Clot,08018,Medi ambient
+99400075599,41.40701308333333,2.189168138888889,C Escultors Claperós 34,2004-03-04T14:52:00Z,Sant Martí,Contenidor Roba Amiga * Punt Verd de Barri del Clot,el Clot,08018,Medi ambient
+99400075600,41.41417621944444,2.174359055555555,C Mas Casanovas 90,2004-03-04T14:53:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Punt Verd Barri Horta - Guinardó,el Guinardó,08041,Medi ambient
+99400075600,41.41417621944444,2.174359055555555,C Mas Casanovas 90,2004-03-04T14:53:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Punt Verd Barri Horta - Guinardó,el Guinardó,08041,Medi ambient
+99400075606,41.41623882222222,2.1361869444444443,C Collserola 2,2004-03-04T16:07:00Z,Gràcia,Contenidor de Roba Amiga *Punt Verd Collserola,Vallcarca i els Penitents,08035,Medi ambient
+99400075606,41.41623882222222,2.1361869444444443,C Collserola 2,2004-03-04T16:07:00Z,Gràcia,Contenidor de Roba Amiga *Punt Verd Collserola,Vallcarca i els Penitents,08035,Medi ambient
+99400075607,41.4309787,2.1557673611111112,Av Estatut de Catalunya 12,2004-03-04T16:08:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Punt Verd Vall Hebron,Horta,08032,Medi ambient
+99400075607,41.4309787,2.1557673611111112,Av Estatut de Catalunya 12,2004-03-04T16:08:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Punt Verd Vall Hebron,Horta,08032,Medi ambient
+99400075609,41.38884918888889,2.10824375,Av Esplugues 60,2004-03-04T16:11:00Z,Les Corts,Contenidor Roba Amiga * Punt Verd de Les Corts - Pedralbes,Pedralbes,08034,Medi ambient
+99400075609,41.38884918888889,2.10824375,Av Esplugues 60,2004-03-04T16:11:00Z,Les Corts,Contenidor Roba Amiga * Punt Verd de Les Corts - Pedralbes,Pedralbes,08034,Medi ambient
+99400075610,41.44552006111111,2.202341666666667,C Caracas 44,2004-03-04T16:12:00Z,Sant Andreu,Contenidor Roba Amiga * Punt Verd de Sant Andreu,el Bon Pastor,08030,Medi ambient
+99400075610,41.44552006111111,2.202341666666667,C Caracas 44,2004-03-04T16:12:00Z,Sant Andreu,Contenidor Roba Amiga * Punt Verd de Sant Andreu,el Bon Pastor,08030,Medi ambient
+99400075613,41.35502710277778,2.1397920555555556,C Foc 56,2004-03-04T16:24:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Punt Verd Montjuïc,la Marina del Prat Vermell,08038,Medi ambient
+99400075613,41.35502710277778,2.1397920555555556,C Foc 56,2004-03-04T16:24:00Z,Sants-Montjuïc,Contenidor Roba Amiga * Punt Verd Montjuïc,la Marina del Prat Vermell,08038,Medi ambient
+99400075614,41.387536374999996,2.1494699444444443,C Rosselló 139 bxs,2004-03-04T16:26:00Z,Eixample,Contenidor de Roba Amiga *Recinte Escola Industrial,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400075614,41.387536374999996,2.1494699444444443,C Rosselló 139 bxs,2004-03-04T16:26:00Z,Eixample,Contenidor de Roba Amiga *Recinte Escola Industrial,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400075616,41.38129317777778,2.126233083333333,Trav Corts 131,2004-03-04T16:28:00Z,Les Corts,Contenidor Roba Amiga * Recinte Maternitat,la Maternitat i Sant Ramon,08028,Medi ambient
+99400075616,41.38129317777778,2.126233083333333,Trav Corts 131,2004-03-04T16:28:00Z,Les Corts,Contenidor Roba Amiga * Recinte Maternitat,la Maternitat i Sant Ramon,08028,Medi ambient
+99400075617,41.38991789166666,2.115375111111111,C Jordi Girona 1,2004-03-04T16:30:00Z,Les Corts,Contenidor Roba Amiga * UPC Campus Nord,Pedralbes,08034,Medi ambient
+99400075617,41.38991789166666,2.115375111111111,C Jordi Girona 1,2004-03-04T16:30:00Z,Les Corts,Contenidor Roba Amiga * UPC Campus Nord,Pedralbes,08034,Medi ambient
+99400075712,41.375240500000004,2.1308741111111114,Rbla Badal 202,2004-03-05T11:52:00Z,Sants-Montjuïc,Punt Verd Mòbil *Rambla Badal-Sants,Sants,08028,Medi ambient
+99400075712,41.375240500000004,2.1308741111111114,Rbla Badal 202,2004-03-05T11:52:00Z,Sants-Montjuïc,Punt Verd Mòbil *Rambla Badal-Sants,Sants,08028,Medi ambient
+99400075871,41.37984413611111,2.1898395555555554,C Atlàntida 49,2004-03-08T11:11:00Z,Ciutat Vella,Punt Verd Mòbil *Mercat Barceloneta,la Barceloneta,08003,Medi ambient
+99400075871,41.37984413611111,2.1898395555555554,C Atlàntida 49,2004-03-08T11:11:00Z,Ciutat Vella,Punt Verd Mòbil *Mercat Barceloneta,la Barceloneta,08003,Medi ambient
+99400075873,41.37471778888889,2.1447999444444443,C Vilardell 33,2004-03-08T11:13:00Z,Sants-Montjuïc,Punt Verd Mòbil *Mercat d'Hostafrancs,Hostafrancs,08014,Medi ambient
+99400075873,41.37471778888889,2.1447999444444443,C Vilardell 33,2004-03-08T11:13:00Z,Sants-Montjuïc,Punt Verd Mòbil *Mercat d'Hostafrancs,Hostafrancs,08014,Medi ambient
+99400075876,41.385823977777775,2.1775149444444444,Av Francesc Cambó 12,2004-03-08T11:15:00Z,Ciutat Vella,Punt Verd Mòbil *Mercat Santa Caterina,Parc,08003,Medi ambient
+99400075876,41.385823977777775,2.1775149444444444,Av Francesc Cambó 12,2004-03-08T11:15:00Z,Ciutat Vella,Punt Verd Mòbil *Mercat Santa Caterina,Parc,08003,Medi ambient
+99400075904,41.378503422222224,2.1785966388888887,Pl Duc de Medinaceli 1,2004-03-08T12:27:00Z,Ciutat Vella,Punt Verd Mòbil *Plaça Duc Medinaceli-Ample,el Barri Gòtic,08002,Medi ambient
+99400075904,41.378503422222224,2.1785966388888887,Pl Duc de Medinaceli 1,2004-03-08T12:27:00Z,Ciutat Vella,Punt Verd Mòbil *Plaça Duc Medinaceli-Ample,el Barri Gòtic,08002,Medi ambient
+99400075906,41.360975161111114,2.1395445555555557,C Foneria 39,2004-03-08T12:30:00Z,Sants-Montjuïc,Punt Verd Mòbil *Mercat de la Marina,la Marina de Port,08038,Medi ambient
+99400075906,41.360975161111114,2.1395445555555557,C Foneria 39,2004-03-08T12:30:00Z,Sants-Montjuïc,Punt Verd Mòbil *Mercat de la Marina,la Marina de Port,08038,Medi ambient
+99400075908,41.38417171111111,2.18230925,Pg Born 3,2004-03-08T12:37:00Z,Ciutat Vella,Punt Verd Mòbil *Passeig del Born-Montcada,Parc,08003,Medi ambient
+99400075908,41.38417171111111,2.18230925,Pg Born 3,2004-03-08T12:37:00Z,Ciutat Vella,Punt Verd Mòbil *Passeig del Born-Montcada,Parc,08003,Medi ambient
+99400075909,41.367402075,2.1341235277777777,Rbla Badal 40,2004-03-08T12:39:00Z,Sants-Montjuïc,Punt Verd Mòbil *Rambla Badal-Quetzal,la Bordeta,08014,Medi ambient
+99400075909,41.367402075,2.1341235277777777,Rbla Badal 40,2004-03-08T12:39:00Z,Sants-Montjuïc,Punt Verd Mòbil *Rambla Badal-Quetzal,la Bordeta,08014,Medi ambient
+99400075910,41.37656226111111,2.1753334166666667,C Portal de Santa Madrona 12,2004-03-08T12:41:00Z,Ciutat Vella,Punt Verd Mòbil *Drassanes-Portal Santa Madrona,el Raval,08001,Medi ambient
+99400075910,41.37656226111111,2.1753334166666667,C Portal de Santa Madrona 12,2004-03-08T12:41:00Z,Ciutat Vella,Punt Verd Mòbil *Drassanes-Portal Santa Madrona,el Raval,08001,Medi ambient
+99400075912,41.407744538888885,2.1489688611111113,C Riera de Vallcarca 17,2004-03-08T12:44:00Z,Gràcia,Punt Verd Mòbil *Bibioteca Jaume Fuster-Plaça Lesseps,Vallcarca i els Penitents,08023,Medi ambient
+99400075912,41.407744538888885,2.1489688611111113,C Riera de Vallcarca 17,2004-03-08T12:44:00Z,Gràcia,Punt Verd Mòbil *Bibioteca Jaume Fuster-Plaça Lesseps,Vallcarca i els Penitents,08023,Medi ambient
+99400075913,41.38068741111111,2.1411243333333334,C Viriat 47,2004-03-08T12:46:00Z,Sants-Montjuïc,Punt Verd Mòbil *Numància-Viriat,Sants,08014,Medi ambient
+99400075913,41.38068741111111,2.1411243333333334,C Viriat 47,2004-03-08T12:46:00Z,Sants-Montjuïc,Punt Verd Mòbil *Numància-Viriat,Sants,08014,Medi ambient
+99400075914,41.383008438888886,2.167807972222222,Pl Àngels 1,2004-03-08T12:48:00Z,Ciutat Vella,Punt Verd Mòbil *Plaça dels Àngels-Montalegre,el Raval,08001,Medi ambient
+99400075914,41.383008438888886,2.167807972222222,Pl Àngels 1,2004-03-08T12:48:00Z,Ciutat Vella,Punt Verd Mòbil *Plaça dels Àngels-Montalegre,el Raval,08001,Medi ambient
+99400075919,41.37209191944444,2.1389139166666666,C Almeria 36,2004-03-08T12:53:00Z,Sants-Montjuïc,Punt Verd Mòbil *Plaça de la Farga,la Bordeta,08014,Medi ambient
+99400075919,41.37209191944444,2.1389139166666666,C Almeria 36,2004-03-08T12:53:00Z,Sants-Montjuïc,Punt Verd Mòbil *Plaça de la Farga,la Bordeta,08014,Medi ambient
+99400075920,41.390673802777776,2.1801731944444445,Pg Lluís Companys 15,2004-03-08T12:56:00Z,Ciutat Vella,Punt Verd Mòbil *Arc de Triomf,Parc,08003,Medi ambient
+99400075920,41.390673802777776,2.1801731944444445,Pg Lluís Companys 15,2004-03-08T12:56:00Z,Ciutat Vella,Punt Verd Mòbil *Arc de Triomf,Parc,08003,Medi ambient
+99400075924,41.38220241111111,2.1769389444444442,Pl Sant Miquel 1,2004-03-08T13:00:00Z,Ciutat Vella,Punt Verd Mòbil *Plaça Sant Miquel,el Barri Gòtic,08002,Medi ambient
+99400075924,41.38220241111111,2.1769389444444442,Pl Sant Miquel 1,2004-03-08T13:00:00Z,Ciutat Vella,Punt Verd Mòbil *Plaça Sant Miquel,el Barri Gòtic,08002,Medi ambient
+99400075925,41.37937483333334,2.1680429166666664,Rbla Raval 2,2004-03-08T13:01:00Z,Ciutat Vella,Punt Verd Mòbil *Rambla Raval-Hospital,el Raval,08001,Medi ambient
+99400075925,41.37937483333334,2.1680429166666664,Rbla Raval 2,2004-03-08T13:01:00Z,Ciutat Vella,Punt Verd Mòbil *Rambla Raval-Hospital,el Raval,08001,Medi ambient
+99400075928,41.39390823611111,2.1598335555555557,Rbla Catalunya 102,2004-03-08T13:05:00Z,Eixample,Punt Verd Mòbil *Provença-Rambla Catalunya,la Dreta de l'Eixample,08008,Medi ambient
+99400075928,41.39390823611111,2.1598335555555557,Rbla Catalunya 102,2004-03-08T13:05:00Z,Eixample,Punt Verd Mòbil *Provença-Rambla Catalunya,la Dreta de l'Eixample,08008,Medi ambient
+99400075967,41.4200593,2.1975964166666664,C Menorca 64,2004-03-08T13:48:00Z,Sant Martí,Punt Verd Mòbil *Mercat de Provençals,Sant Martí de Provençals,08020,Medi ambient
+99400075967,41.4200593,2.1975964166666664,C Menorca 64,2004-03-08T13:48:00Z,Sant Martí,Punt Verd Mòbil *Mercat de Provençals,Sant Martí de Provençals,08020,Medi ambient
+99400075971,41.396601516666664,2.168316,C València 321,2004-03-08T13:55:00Z,Eixample,Punt Verd Mòbil *Mercat de la Concepció,la Dreta de l'Eixample,08009,Medi ambient
+99400075971,41.396601516666664,2.168316,C València 321,2004-03-08T13:55:00Z,Eixample,Punt Verd Mòbil *Mercat de la Concepció,la Dreta de l'Eixample,08009,Medi ambient
+99400075994,41.403985041666665,2.2129781944444447,C Provençals 5,2004-03-08T14:20:00Z,Sant Martí,Punt Verd Mòbil *Passeig Taulat-Provençals,Diagonal Mar i el Front Marítim del Poblenou,08019,Medi ambient
+99400075994,41.403985041666665,2.2129781944444447,C Provençals 5,2004-03-08T14:20:00Z,Sant Martí,Punt Verd Mòbil *Passeig Taulat-Provençals,Diagonal Mar i el Front Marítim del Poblenou,08019,Medi ambient
+99400075998,41.380541658333335,2.1519629166666667,C Consell de Cent 104,2004-03-08T14:29:00Z,Eixample,Punt Verd Mòbil *Consell de Cent-Rocafort,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400075998,41.380541658333335,2.1519629166666667,C Consell de Cent 104,2004-03-08T14:29:00Z,Eixample,Punt Verd Mòbil *Consell de Cent-Rocafort,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400076170,41.39602631111111,2.174726972222222,C Diputació 336,2004-03-09T13:30:00Z,Eixample,Punt Verd Mòbil *Diputació-Passeig de Sant Joan,la Dreta de l'Eixample,08009,Medi ambient
+99400076170,41.39602631111111,2.174726972222222,C Diputació 336,2004-03-09T13:30:00Z,Eixample,Punt Verd Mòbil *Diputació-Passeig de Sant Joan,la Dreta de l'Eixample,08009,Medi ambient
+99400076172,41.40093698055556,2.2058772222222225,C Bilbao 25,2004-03-09T13:33:00Z,Sant Martí,Punt Verd Mòbil *Mercat de la Unió-Poblenou,el Poblenou,08005,Medi ambient
+99400076172,41.40093698055556,2.2058772222222225,C Bilbao 25,2004-03-09T13:33:00Z,Sant Martí,Punt Verd Mòbil *Mercat de la Unió-Poblenou,el Poblenou,08005,Medi ambient
+99400076183,41.38782648888889,2.154394,C Mallorca 157,2004-03-09T13:50:00Z,Eixample,Punt Verd Mòbil *Mercat del Ninot,l'Antiga Esquerra de l'Eixample,08036,Medi ambient
+99400076183,41.38782648888889,2.154394,C Mallorca 157,2004-03-09T13:50:00Z,Eixample,Punt Verd Mòbil *Mercat del Ninot,l'Antiga Esquerra de l'Eixample,08036,Medi ambient
+99400076185,41.422652875,2.208854666666667,C Concili de Trento 309,2004-03-09T13:53:00Z,Sant Martí,Punt Verd Mòbil *Plaça de la Pau,la Verneda i la Pau,08020,Medi ambient
+99400076185,41.422652875,2.208854666666667,C Concili de Trento 309,2004-03-09T13:53:00Z,Sant Martí,Punt Verd Mòbil *Plaça de la Pau,la Verneda i la Pau,08020,Medi ambient
+99400076188,41.38952685833333,2.160399527777778,Pl Doctor Letamendi 24,2004-03-09T13:56:00Z,Eixample,Punt Verd Mòbil *Plaça Doctor Letamendi,l'Antiga Esquerra de l'Eixample,08007,Medi ambient
+99400076188,41.38952685833333,2.160399527777778,Pl Doctor Letamendi 24,2004-03-09T13:56:00Z,Eixample,Punt Verd Mòbil *Plaça Doctor Letamendi,l'Antiga Esquerra de l'Eixample,08007,Medi ambient
+99400076193,41.39113695277778,2.173262583333333,C Casp 52,2004-03-09T14:07:00Z,Eixample,Punt Verd Mòbil *Casp-Bruc,la Dreta de l'Eixample,08010,Medi ambient
+99400076193,41.39113695277778,2.173262583333333,C Casp 52,2004-03-09T14:07:00Z,Eixample,Punt Verd Mòbil *Casp-Bruc,la Dreta de l'Eixample,08010,Medi ambient
+99400076199,41.414470369444444,2.181122888888889,Pg Maragall 22,2004-03-09T14:16:00Z,Sant Martí,Punt Verd Mòbil *Indústria-Passeig Maragall,el Camp de l'Arpa del Clot,08026,Medi ambient
+99400076199,41.414470369444444,2.181122888888889,Pg Maragall 22,2004-03-09T14:16:00Z,Sant Martí,Punt Verd Mòbil *Indústria-Passeig Maragall,el Camp de l'Arpa del Clot,08026,Medi ambient
+99400076388,41.43621544444444,2.207823638888889,C Sant Adrià 192,2004-03-11T11:15:00Z,Sant Andreu,Punt Verd Mòbil *Mercat Bon Pastor,el Bon Pastor,08030,Medi ambient
+99400076388,41.43621544444444,2.207823638888889,C Sant Adrià 192,2004-03-11T11:15:00Z,Sant Andreu,Punt Verd Mòbil *Mercat Bon Pastor,el Bon Pastor,08030,Medi ambient
+99400076498,41.403146480555556,2.1970252777777777,C Sancho de Avila 180,2004-03-11T17:18:00Z,Sant Martí,Punt Verd Mòbil *Rambla Poblenou-Sancho de Avila,el Poblenou,08018,Medi ambient
+99400076498,41.403146480555556,2.1970252777777777,C Sancho de Avila 180,2004-03-11T17:18:00Z,Sant Martí,Punt Verd Mòbil *Rambla Poblenou-Sancho de Avila,el Poblenou,08018,Medi ambient
+99400076499,41.37835545833333,2.1632959166666668,Rda Sant Pau 79,2004-03-11T17:21:00Z,Eixample,Punt Verd Mòbil *Mercat de Sant Antoni,Sant Antoni,08015,Medi ambient
+99400076499,41.37835545833333,2.1632959166666668,Rda Sant Pau 79,2004-03-11T17:21:00Z,Eixample,Punt Verd Mòbil *Mercat de Sant Antoni,Sant Antoni,08015,Medi ambient
+99400076500,41.3918932,2.199109722222222,Av Icària 174,2004-03-11T17:27:00Z,Sant Martí,Punt Verd Mòbil *Avinguda Icària-Arquitecte Sert,la Vila Olímpica del Poblenou,08005,Medi ambient
+99400076500,41.3918932,2.199109722222222,Av Icària 174,2004-03-11T17:27:00Z,Sant Martí,Punt Verd Mòbil *Avinguda Icària-Arquitecte Sert,la Vila Olímpica del Poblenou,08005,Medi ambient
+99400076501,41.4113967,2.2152463055555556,C Llull 379,2004-03-11T17:29:00Z,Sant Martí,Punt Verd Mòbil *Diagonal Mar,el Besòs i el Maresme,08019,Medi ambient
+99400076501,41.4113967,2.2152463055555556,C Llull 379,2004-03-11T17:29:00Z,Sant Martí,Punt Verd Mòbil *Diagonal Mar,el Besòs i el Maresme,08019,Medi ambient
+99400076502,41.402773169444444,2.1646685555555556,Pg Sant Joan 169,2004-03-11T17:37:00Z,Gràcia,Punt Verd Mòbil *Passeig Sant Joan-Indústria,el Camp d'en Grassot i Gràcia Nova,08037,Medi ambient
+99400076502,41.402773169444444,2.1646685555555556,Pg Sant Joan 169,2004-03-11T17:37:00Z,Gràcia,Punt Verd Mòbil *Passeig Sant Joan-Indústria,el Camp d'en Grassot i Gràcia Nova,08037,Medi ambient
+99400076503,41.39090330277778,2.1319156944444444,C Numància 180,2004-03-11T17:40:00Z,Les Corts,Punt Verd Mòbil *Numància-Nau Santa Maria,Les Corts,08017,Medi ambient
+99400076503,41.39090330277778,2.1319156944444444,C Numància 180,2004-03-11T17:40:00Z,Les Corts,Punt Verd Mòbil *Numància-Nau Santa Maria,Les Corts,08017,Medi ambient
+99400076504,41.39691129166667,2.144037361111111,C Santaló 65,2004-03-11T17:42:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Mercat de Galvany,Sant Gervasi - Galvany,08021,Medi ambient
+99400076504,41.39691129166667,2.144037361111111,C Santaló 65,2004-03-11T17:42:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Mercat de Galvany,Sant Gervasi - Galvany,08021,Medi ambient
+99400076505,41.40287644166666,2.158157777777778,Pl Revolució Setembre 1868 5,2004-03-11T17:44:00Z,Gràcia,Punt Verd Mòbil *Plaça Revolució-Terol,la Vila de Gràcia,08012,Medi ambient
+99400076505,41.40287644166666,2.158157777777778,Pl Revolució Setembre 1868 5,2004-03-11T17:44:00Z,Gràcia,Punt Verd Mòbil *Plaça Revolució-Terol,la Vila de Gràcia,08012,Medi ambient
+99400076506,41.39966006388889,2.121592361111111,C Major de Sarrià 97,2004-03-11T17:45:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Plaça Sarrià,Sarrià,08017,Medi ambient
+99400076506,41.39966006388889,2.121592361111111,C Major de Sarrià 97,2004-03-11T17:45:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Plaça Sarrià,Sarrià,08017,Medi ambient
+99400076508,41.410369394444444,2.164506,C Pi i Margall 94,2004-03-11T18:07:00Z,Horta-Guinardó,Punt Verd Mòbil *Mercat Estrella,el Baix Guinardó,08025,Medi ambient
+99400076508,41.410369394444444,2.164506,C Pi i Margall 94,2004-03-11T18:07:00Z,Horta-Guinardó,Punt Verd Mòbil *Mercat Estrella,el Baix Guinardó,08025,Medi ambient
+99400076509,41.37782604444445,2.1165365,Av Sant Ramon Nonat 38,2004-03-11T18:09:00Z,Les Corts,Punt Verd Mòbil *Cardenal Reig-Sant Ramon Nonat,la Maternitat i Sant Ramon,08028,Medi ambient
+99400076509,41.37782604444445,2.1165365,Av Sant Ramon Nonat 38,2004-03-11T18:09:00Z,Les Corts,Punt Verd Mòbil *Cardenal Reig-Sant Ramon Nonat,la Maternitat i Sant Ramon,08028,Medi ambient
+99400076510,41.405961347222224,2.1374701666666667,Pl Frederic Soler 6,2004-03-11T18:10:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Mercat de Sant Gervasi,Sant Gervasi - la Bonanova,08022,Medi ambient
+99400076510,41.405961347222224,2.1374701666666667,Pl Frederic Soler 6,2004-03-11T18:10:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Mercat de Sant Gervasi,Sant Gervasi - la Bonanova,08022,Medi ambient
+99400076511,41.42134220833333,2.1752340555555554,Pl Guinardó 10,2004-03-11T18:13:00Z,Horta-Guinardó,Punt Verd Mòbil *Plaça Guinardó,el Guinardó,08041,Medi ambient
+99400076511,41.42134220833333,2.1752340555555554,Pl Guinardó 10,2004-03-11T18:13:00Z,Horta-Guinardó,Punt Verd Mòbil *Plaça Guinardó,el Guinardó,08041,Medi ambient
+99400076514,41.39046335555555,2.121643027777778,Pg Manuel Girona 13,2004-03-11T18:15:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Passeig Manuel Girona-Pedro i Pons,Sarrià,08034,Medi ambient
+99400076514,41.39046335555555,2.121643027777778,Pg Manuel Girona 13,2004-03-11T18:15:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Passeig Manuel Girona-Pedro i Pons,Sarrià,08034,Medi ambient
+99400076515,41.41056617222222,2.168933722222222,C Lepant 410,2004-03-11T18:17:00Z,Horta-Guinardó,Punt Verd Mòbil *Lepant-Taxdirt,el Baix Guinardó,08025,Medi ambient
+99400076515,41.41056617222222,2.168933722222222,C Lepant 410,2004-03-11T18:17:00Z,Horta-Guinardó,Punt Verd Mòbil *Lepant-Taxdirt,el Baix Guinardó,08025,Medi ambient
+99400076516,41.38750789722222,2.134401,C Numància 141,2004-03-11T18:19:00Z,Les Corts,Punt Verd Mòbil *Déu i Mata-Numància,Les Corts,08029,Medi ambient
+99400076516,41.38750789722222,2.134401,C Numància 141,2004-03-11T18:19:00Z,Les Corts,Punt Verd Mòbil *Déu i Mata-Numància,Les Corts,08029,Medi ambient
+99400076518,41.40665042777778,2.1341443055555556,Pl Bonanova 4,2004-03-11T18:20:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Plaça Bonanova-Passeig Bonanova,Sant Gervasi - la Bonanova,08022,Medi ambient
+99400076518,41.40665042777778,2.1341443055555556,Pl Bonanova 4,2004-03-11T18:20:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Plaça Bonanova-Passeig Bonanova,Sant Gervasi - la Bonanova,08022,Medi ambient
+99400076519,41.38896540555555,2.1429359722222223,Av Josep Tarradellas 117,2004-03-11T18:22:00Z,Les Corts,Punt Verd Mòbil *Avinguda Josep Tarradellas-Gelabert,Les Corts,08029,Medi ambient
+99400076519,41.38896540555555,2.1429359722222223,Av Josep Tarradellas 117,2004-03-11T18:22:00Z,Les Corts,Punt Verd Mòbil *Avinguda Josep Tarradellas-Gelabert,Les Corts,08029,Medi ambient
+99400076520,41.376045947222224,2.121897833333333,C Sants 390,2004-03-11T18:24:00Z,Les Corts,Punt Verd Mòbil *Riera Blanca-Sants,la Maternitat i Sant Ramon,08028,Medi ambient
+99400076520,41.376045947222224,2.121897833333333,C Sants 390,2004-03-11T18:24:00Z,Les Corts,Punt Verd Mòbil *Riera Blanca-Sants,la Maternitat i Sant Ramon,08028,Medi ambient
+99400076522,41.39470763888889,2.1052470555555556,C Panamà 27,2004-03-11T18:32:00Z,Les Corts,Contenidor de Sal *Avinguda Pearson - Panamá,Pedralbes,08034,Medi ambient
+99400076522,41.39470763888889,2.1052470555555556,C Panamà 27,2004-03-11T18:32:00Z,Les Corts,Contenidor de Sal *Avinguda Pearson - Panamá,Pedralbes,08034,Medi ambient
+99400076539,41.418979380555555,2.1326740555555554,C August Font 32,2004-03-12T09:14:00Z,Gràcia,Contenidor de Sal *Collserola - August Font,Vallcarca i els Penitents,08035,Medi ambient
+99400076539,41.418979380555555,2.1326740555555554,C August Font 32,2004-03-12T09:14:00Z,Gràcia,Contenidor de Sal *Collserola - August Font,Vallcarca i els Penitents,08035,Medi ambient
+99400076566,41.43532455833333,2.1681858888888885,Pl Cèsar Vallejo 1*LX,2004-03-12T11:04:00Z,Nou Barris,Contenidor de Sal *Parc Central de Nou Barris,Can Peguera,08042,Medi ambient
+99400076566,41.43532455833333,2.1681858888888885,Pl Cèsar Vallejo 1*LX,2004-03-12T11:04:00Z,Nou Barris,Contenidor de Sal *Parc Central de Nou Barris,Can Peguera,08042,Medi ambient
+99400076573,41.413040402777774,2.1099304722222225,Camí Boscà 4,2004-03-12T11:48:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Boscà,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076573,41.413040402777774,2.1099304722222225,Camí Boscà 4,2004-03-12T11:48:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Boscà,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076574,41.414166438888884,2.111443472222222,T Font del Mont 2,2004-03-12T11:49:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torrent Font Mont,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076574,41.414166438888884,2.111443472222222,T Font del Mont 2,2004-03-12T11:49:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torrent Font Mont,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076575,41.41425866388889,2.11265175,C Font del Mont 50,2004-03-12T11:51:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Font del Mont - Escales Passatge Font del Mont,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076575,41.41425866388889,2.11265175,C Font del Mont 50,2004-03-12T11:51:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Font del Mont - Escales Passatge Font del Mont,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076576,41.42089324166666,2.1190526666666667,C Colònia del Tibidabo 1,2004-03-12T11:53:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Colònia Tibidabo - Camí Vallvidrera al Tibidabo,"Vallvidrera, el Tibidabo i les Planes",08035,Medi ambient
+99400076576,41.42089324166666,2.1190526666666667,C Colònia del Tibidabo 1,2004-03-12T11:53:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Colònia Tibidabo - Camí Vallvidrera al Tibidabo,"Vallvidrera, el Tibidabo i les Planes",08035,Medi ambient
+99400076578,41.42209047777777,2.116245,Camí Sant Cugat 27,2004-03-12T11:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí de Cal Totxo - Camí de Sant Cugat,"Vallvidrera, el Tibidabo i les Planes",08035,Medi ambient
+99400076578,41.42209047777777,2.116245,Camí Sant Cugat 27,2004-03-12T11:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí de Cal Totxo - Camí de Sant Cugat,"Vallvidrera, el Tibidabo i les Planes",08035,Medi ambient
+99400076748,41.41229692222222,2.1009425833333335,C Fonolleda 3,2004-03-15T13:14:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Espinagosa - Fonolleda,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076748,41.41229692222222,2.1009425833333335,C Fonolleda 3,2004-03-15T13:14:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Espinagosa - Fonolleda,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076750,41.412352825,2.103186888888889,Ptge Negociant 2,2004-03-15T13:16:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passatge del Negociant - Casetes,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076750,41.412352825,2.103186888888889,Ptge Negociant 2,2004-03-15T13:16:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passatge del Negociant - Casetes,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076851,41.41148745555555,2.1004764444444444,C Ginestera 21,2004-03-16T09:13:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Ginestera - Camí del Molí,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076851,41.41148745555555,2.1004764444444444,C Ginestera 21,2004-03-16T09:13:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Ginestera - Camí del Molí,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076877,41.41549781944444,2.095041638888889,Camí Mas Sauró 33,2004-03-16T11:06:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Mas Sauró - Passatge Mas Sauró,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076877,41.41549781944444,2.095041638888889,Camí Mas Sauró 33,2004-03-16T11:06:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Mas Sauró - Passatge Mas Sauró,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076878,41.415551530555554,2.0925308333333335,Camí Mas Sauró 1,2004-03-16T11:08:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Mas Sauró - Camí de Pebràs - Rotonda Gir Bus,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076878,41.415551530555554,2.0925308333333335,Camí Mas Sauró 1,2004-03-16T11:08:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Mas Sauró - Camí de Pebràs - Rotonda Gir Bus,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076881,41.41752474166666,2.096296611111111,Camí Mas Sauró 53,2004-03-16T11:10:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Mas Sauró,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076881,41.41752474166666,2.096296611111111,Camí Mas Sauró 53,2004-03-16T11:10:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Mas Sauró,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076882,41.41915306666667,2.0967272500000003,T Rovelló 1,2004-03-16T11:11:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torrent del Rovelló - Camí del Pantà,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076882,41.41915306666667,2.0967272500000003,T Rovelló 1,2004-03-16T11:11:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torrent del Rovelló - Camí del Pantà,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076884,41.41840994166667,2.094804888888889,T Rovelló 17,2004-03-16T11:15:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torrent Rovelló - Camí de la Font dels Pins,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076884,41.41840994166667,2.094804888888889,T Rovelló 17,2004-03-16T11:15:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torrent Rovelló - Camí de la Font dels Pins,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076889,41.421656352777774,2.0956864444444445,C Major del Rectoret 15,2004-03-16T11:27:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Major Rectoret - Escola Vil·la Joana,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076889,41.421656352777774,2.0956864444444445,C Major del Rectoret 15,2004-03-16T11:27:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Major Rectoret - Escola Vil·la Joana,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076890,41.42326788055556,2.094773527777778,C Major del Rectoret 27,2004-03-16T11:29:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Major del Rectoret,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076890,41.42326788055556,2.094773527777778,C Major del Rectoret 27,2004-03-16T11:29:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Major del Rectoret,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076893,41.42559246388889,2.096986888888889,C Bohemis 58,2004-03-16T11:38:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Amarant - Bohemis,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076893,41.42559246388889,2.096986888888889,C Bohemis 58,2004-03-16T11:38:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Amarant - Bohemis,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076894,41.4246112,2.09768175,C Savina 4,2004-03-16T11:39:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Savina - Gardènia,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076894,41.4246112,2.09768175,C Savina 4,2004-03-16T11:39:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Savina - Gardènia,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076950,41.42535761111111,2.100376388888889,C Menta 1,2004-03-16T16:24:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Menta - Robínia,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076950,41.42535761111111,2.100376388888889,C Menta 1,2004-03-16T16:24:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Menta - Robínia,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076955,41.42704281388889,2.102364777777778,C Robínia 30,2004-03-16T17:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Plaça Televisió,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076955,41.42704281388889,2.102364777777778,C Robínia 30,2004-03-16T17:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Plaça Televisió,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076956,41.429481625,2.100857388888889,C Menta 46,2004-03-16T17:55:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Menta - Lilà,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076956,41.429481625,2.100857388888889,C Menta 46,2004-03-16T17:55:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Menta - Lilà,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076957,41.42896193888889,2.101805638888889,C Via Làctia 20,2004-03-16T17:56:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Via Làctia - Robínia,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076957,41.42896193888889,2.101805638888889,C Via Làctia 20,2004-03-16T17:56:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Via Làctia - Robínia,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076960,41.4277897,2.096611277777778,Pl Tulipa 1,2004-03-16T17:58:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Plaça Tulipa,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076960,41.4277897,2.096611277777778,Pl Tulipa 1,2004-03-16T17:58:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Plaça Tulipa,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076962,41.431013694444445,2.0957011944444446,C Major del Rectoret 168,2004-03-16T18:00:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Major de Rectoret,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076962,41.431013694444445,2.0957011944444446,C Major del Rectoret 168,2004-03-16T18:00:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Major de Rectoret,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076963,41.42966563333333,2.0940675833333335,C Baladre 54,2004-03-16T18:02:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Baladre - Malva - Costa del Bruc,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076963,41.42966563333333,2.0940675833333335,C Baladre 54,2004-03-16T18:02:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Baladre - Malva - Costa del Bruc,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076964,41.428294333333334,2.0920060555555557,Av Rectoret 26,2004-03-16T18:03:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Avinguda Rectoret - Tren,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076964,41.428294333333334,2.0920060555555557,Av Rectoret 26,2004-03-16T18:03:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Avinguda Rectoret - Tren,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076965,41.42439931944444,2.0841265555555557,C Can Castellví 34,2004-03-16T18:05:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Mas Guimbau - Can Castellví,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076965,41.42439931944444,2.0841265555555557,C Can Castellví 34,2004-03-16T18:05:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Mas Guimbau - Can Castellví,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076966,41.42648168611111,2.088097138888889,Camí Verns 17,2004-03-16T18:06:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí dels Verns - Camí Pla Llorenç - Girada Gespa,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076966,41.42648168611111,2.088097138888889,Camí Verns 17,2004-03-16T18:06:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí dels Verns - Camí Pla Llorenç - Girada Gespa,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076967,41.42440940833333,2.090549027777778,C Gespa 39,2004-03-16T18:07:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí de Mas Guimbau - Gespa,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076967,41.42440940833333,2.090549027777778,C Gespa 39,2004-03-16T18:07:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí de Mas Guimbau - Gespa,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076968,41.42304666944444,2.087822666666667,Pg Pi Forcat 14,2004-03-16T18:08:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Vimetera - Passeig Pi Forcat,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076968,41.42304666944444,2.087822666666667,Pg Pi Forcat 14,2004-03-16T18:08:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Vimetera - Passeig Pi Forcat,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076969,41.42118419166666,2.0855371944444445,Pg Grèvol 1,2004-03-16T18:09:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Grèvol - Camí Can Castellví,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076969,41.42118419166666,2.0855371944444445,Pg Grèvol 1,2004-03-16T18:09:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Grèvol - Camí Can Castellví,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076970,41.421623777777775,2.0863861944444446,Pg Grèvol 12,2004-03-16T18:11:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Grèvol,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076970,41.421623777777775,2.0863861944444446,Pg Grèvol 12,2004-03-16T18:11:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Grèvol,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076971,41.42186496111111,2.08749375,Pg Grèvol 22,2004-03-16T18:12:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Grèvol - Passeig Pi Forcat,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076971,41.42186496111111,2.08749375,Pg Grèvol 22,2004-03-16T18:12:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Grèvol - Passeig Pi Forcat,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076972,41.42327680555555,2.0887698611111114,Pg Vimetera 34,2004-03-16T18:21:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Vimetera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076972,41.42327680555555,2.0887698611111114,Pg Vimetera 34,2004-03-16T18:21:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Vimetera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076973,41.42347114166667,2.0900224166666668,Pg Vimetera 7,2004-03-16T18:22:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Vimetera - Gespa,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076973,41.42347114166667,2.0900224166666668,Pg Vimetera 7,2004-03-16T18:22:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Vimetera - Gespa,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076976,41.427469080555554,2.089076527777778,Pg Solé i Pla 15,2004-03-16T18:25:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Solé i Pla - Pi,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076976,41.427469080555554,2.089076527777778,Pg Solé i Pla 15,2004-03-16T18:25:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Solé i Pla - Pi,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076977,41.42754431944444,2.085511305555556,Camí Bellavista 2,2004-03-16T18:26:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Bellavista - Escales Bellavista,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076977,41.42754431944444,2.085511305555556,Camí Bellavista 2,2004-03-16T18:26:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Bellavista - Escales Bellavista,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076978,41.42025457222222,2.083587777777778,Camí Turó de l'Alzina 2,2004-03-16T18:28:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Can Balasch - Camí Turó de l'Alzina,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076978,41.42025457222222,2.083587777777778,Camí Turó de l'Alzina 2,2004-03-16T18:28:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Can Balasch - Camí Turó de l'Alzina,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400076979,41.426772919444446,2.138567361111111,Av Jordà 18,2004-03-16T18:29:00Z,Horta-Guinardó,Contenidor de Sal *Escola Oficial d'Idiomes,Sant Genís dels Agudells,08035,Medi ambient
+99400076979,41.426772919444446,2.138567361111111,Av Jordà 18,2004-03-16T18:29:00Z,Horta-Guinardó,Contenidor de Sal *Escola Oficial d'Idiomes,Sant Genís dels Agudells,08035,Medi ambient
+99400076980,41.41697911111111,2.165588194444444,C Francesc Alegre 31,2004-03-16T18:30:00Z,Horta-Guinardó,Contenidor de Sal *Associació Veïns Font Castellana,Can Baró,08024,Medi ambient
+99400076980,41.41697911111111,2.165588194444444,C Francesc Alegre 31,2004-03-16T18:30:00Z,Horta-Guinardó,Contenidor de Sal *Associació Veïns Font Castellana,Can Baró,08024,Medi ambient
+99400076981,41.41238593888889,2.1757423055555556,C Sant Antoni Maria Claret 167,2004-03-16T18:31:00Z,Horta-Guinardó,Contenidor de Sal *Hospital de la Santa Creu i Sant Pau,el Guinardó,08025,Medi ambient
+99400076981,41.41238593888889,2.1757423055555556,C Sant Antoni Maria Claret 167,2004-03-16T18:31:00Z,Horta-Guinardó,Contenidor de Sal *Hospital de la Santa Creu i Sant Pau,el Guinardó,08025,Medi ambient
+99400076987,41.426240138888886,2.1404054444444442,Pg Vall d'Hebron 107,2004-03-16T18:35:00Z,Horta-Guinardó,Contenidor de Sal *Hospital Sant Rafael,Montbau,08035,Medi ambient
+99400076987,41.426240138888886,2.1404054444444442,Pg Vall d'Hebron 107,2004-03-16T18:35:00Z,Horta-Guinardó,Contenidor de Sal *Hospital Sant Rafael,Montbau,08035,Medi ambient
+99400076989,41.43286803333333,2.1335315833333333,Ctra Sant Cugat 250,2004-03-16T18:38:00Z,Horta-Guinardó,Contenidor de Sal *Carretera Arrabassada - Accés Zoonosi,Montbau,08035,Medi ambient
+99400076989,41.43286803333333,2.1335315833333333,Ctra Sant Cugat 250,2004-03-16T18:38:00Z,Horta-Guinardó,Contenidor de Sal *Carretera Arrabassada - Accés Zoonosi,Montbau,08035,Medi ambient
+99400076990,41.44644383611111,2.172818694444444,C Alcántara 22,2004-03-16T18:41:00Z,Nou Barris,Contenidor de Sal *Institut Escola Roquetes,les Roquetes,08042,Medi ambient
+99400076990,41.44644383611111,2.172818694444444,C Alcántara 22,2004-03-16T18:41:00Z,Nou Barris,Contenidor de Sal *Institut Escola Roquetes,les Roquetes,08042,Medi ambient
+99400076991,41.43681431666666,2.171212111111111,Pl Major de Nou Barris 1,2004-03-16T18:42:00Z,Nou Barris,Contenidor de Sal *Seu Districte Nou Barris,la Guineueta,08042,Medi ambient
+99400076991,41.43681431666666,2.171212111111111,Pl Major de Nou Barris 1,2004-03-16T18:42:00Z,Nou Barris,Contenidor de Sal *Seu Districte Nou Barris,la Guineueta,08042,Medi ambient
+99400076992,41.4616873,2.177794361111111,C Costabona 4,2004-03-16T18:43:00Z,Nou Barris,Contenidor de Sal *Mercat Ciutat Meridiana,Ciutat Meridiana,08033,Medi ambient
+99400076992,41.4616873,2.177794361111111,C Costabona 4,2004-03-16T18:43:00Z,Nou Barris,Contenidor de Sal *Mercat Ciutat Meridiana,Ciutat Meridiana,08033,Medi ambient
+99400076993,41.453574769444444,2.1860884166666663,C Aiguablava 121,2004-03-16T18:45:00Z,Nou Barris,Contenidor de Sal *Escola Sant Josep Oriol,la Trinitat Nova,08033,Medi ambient
+99400076993,41.453574769444444,2.1860884166666663,C Aiguablava 121,2004-03-16T18:45:00Z,Nou Barris,Contenidor de Sal *Escola Sant Josep Oriol,la Trinitat Nova,08033,Medi ambient
+99400076996,41.460384350000005,2.1814105277777776,Av Escolapi Càncer 2,2004-03-16T18:49:00Z,Nou Barris,Contenidor de Sal *Institut Pablo Ruiz Picasso,Torre Baró,08033,Medi ambient
+99400076996,41.460384350000005,2.1814105277777776,Av Escolapi Càncer 2,2004-03-16T18:49:00Z,Nou Barris,Contenidor de Sal *Institut Pablo Ruiz Picasso,Torre Baró,08033,Medi ambient
+99400077016,41.41053714722222,2.1547938055555553,Av Santuari S Josep Muntany 12,2004-03-17T11:34:00Z,Gràcia,Contenidor de Sal *Hospital Esperança,la Salut,08024,Medi ambient
+99400077016,41.41053714722222,2.1547938055555553,Av Santuari S Josep Muntany 12,2004-03-17T11:34:00Z,Gràcia,Contenidor de Sal *Hospital Esperança,la Salut,08024,Medi ambient
+99400077017,41.41809454722222,2.1112520277777778,C Gabriel Ferrater 27,2004-03-17T11:36:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Gabriel Ferrater - Budellera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400077017,41.41809454722222,2.1112520277777778,C Gabriel Ferrater 27,2004-03-17T11:36:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Gabriel Ferrater - Budellera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400077024,41.422632586111106,2.16522025,Pg Font d'en Fargas 65,2004-03-17T11:53:00Z,Horta-Guinardó,Contenidor de Sal *Escola Font d'en Fargas,la Font d'en Fargues,08032,Medi ambient
+99400077024,41.422632586111106,2.16522025,Pg Font d'en Fargas 65,2004-03-17T11:53:00Z,Horta-Guinardó,Contenidor de Sal *Escola Font d'en Fargas,la Font d'en Fargues,08032,Medi ambient
+99400077026,41.462666761111116,2.182549611111111,C Pujalt 4,2004-03-17T11:55:00Z,Nou Barris,Contenidor de Sal *Escola Ciutat Comtal,Vallbona,08033,Medi ambient
+99400077026,41.462666761111116,2.182549611111111,C Pujalt 4,2004-03-17T11:55:00Z,Nou Barris,Contenidor de Sal *Escola Ciutat Comtal,Vallbona,08033,Medi ambient
+99400077029,41.426580438888884,2.0897856666666668,C Pollancre 1,2004-03-17T12:01:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Mas Guimbau - Pollancre,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400077029,41.426580438888884,2.0897856666666668,C Pollancre 1,2004-03-17T12:01:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Mas Guimbau - Pollancre,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400077031,41.41794630833333,2.095869527777778,Camí Reineta 8,2004-03-17T12:04:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Alt de Mas Sauró - Transformador,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400077031,41.41794630833333,2.095869527777778,Camí Reineta 8,2004-03-17T12:04:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Alt de Mas Sauró - Transformador,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400077032,41.417953580555555,2.0962946388888892,Camí Reineta 12,2004-03-17T12:05:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Alt de Mas Sauró - Escales Ciureny,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400077032,41.417953580555555,2.0962946388888892,Camí Reineta 12,2004-03-17T12:05:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Alt de Mas Sauró - Escales Ciureny,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400077034,41.41713409166666,2.1625579999999998,C Josep Serrano 64,2004-03-17T12:09:00Z,Horta-Guinardó,Contenidor de Sal *Escola Pirineu,Can Baró,08024,Medi ambient
+99400077034,41.41713409166666,2.1625579999999998,C Josep Serrano 64,2004-03-17T12:09:00Z,Horta-Guinardó,Contenidor de Sal *Escola Pirineu,Can Baró,08024,Medi ambient
+99400077113,41.40394950277778,2.1796458333333333,C Padilla 210,2004-03-18T11:12:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Flora Tristan,la Sagrada Família,08013,Medi ambient
+99400077113,41.40394950277778,2.1796458333333333,C Padilla 210,2004-03-18T11:12:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Flora Tristan,la Sagrada Família,08013,Medi ambient
+99400077116,41.394674941666665,2.171504111111111,C Girona 64,2004-03-18T11:18:00Z,Eixample,Contenidor de Roba Amiga *Biblioteca Sofia Barat,la Dreta de l'Eixample,08009,Medi ambient
+99400077116,41.394674941666665,2.171504111111111,C Girona 64,2004-03-18T11:18:00Z,Eixample,Contenidor de Roba Amiga *Biblioteca Sofia Barat,la Dreta de l'Eixample,08009,Medi ambient
+99400077122,41.359699725,2.1374526944444443,C Mecànica 24,2004-03-18T11:53:00Z,Sants-Montjuïc,Contenidor Roba Amiga * CEIP SEAT,la Marina de Port,08038,Medi ambient
+99400077122,41.359699725,2.1374526944444443,C Mecànica 24,2004-03-18T11:53:00Z,Sants-Montjuïc,Contenidor Roba Amiga * CEIP SEAT,la Marina de Port,08038,Medi ambient
+99400077123,41.35893111388889,2.1337674166666667,C Alumini 48,2004-03-18T11:54:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES Lluís Domènech i Muntaner,la Marina de Port,08038,Medi ambient
+99400077123,41.35893111388889,2.1337674166666667,C Alumini 48,2004-03-18T11:54:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES Lluís Domènech i Muntaner,la Marina de Port,08038,Medi ambient
+99400077124,41.355443236111114,2.1452123333333333,C Cisell 19,2004-03-18T11:55:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES Montjuïc,la Marina de Port,08038,Medi ambient
+99400077124,41.355443236111114,2.1452123333333333,C Cisell 19,2004-03-18T11:55:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES Montjuïc,la Marina de Port,08038,Medi ambient
+99400077125,41.38491957222222,2.130280361111111,C Joan Güell 193,2004-03-18T11:57:00Z,Les Corts,Contenidor Roba Amiga * CEIP Ausias March,les Corts,08028,Medi ambient
+99400077125,41.38491957222222,2.130280361111111,C Joan Güell 193,2004-03-18T11:57:00Z,Les Corts,Contenidor Roba Amiga * CEIP Ausias March,les Corts,08028,Medi ambient
+99400077140,41.376249180555554,2.1134636111111114,C Pisuerga 1,2004-03-18T12:44:00Z,Les Corts,Contenidor Roba Amiga * CEIP Pau Romeva,la Maternitat i Sant Ramon,08028,Medi ambient
+99400077140,41.376249180555554,2.1134636111111114,C Pisuerga 1,2004-03-18T12:44:00Z,Les Corts,Contenidor Roba Amiga * CEIP Pau Romeva,la Maternitat i Sant Ramon,08028,Medi ambient
+99400077141,41.36698445555555,2.159896888888889,C Tres Pins 28,2004-03-18T12:45:00Z,Sants-Montjuïc,Contenidor Roba Amiga * CEIP Tres Pins,el Poble Sec,08038,Medi ambient
+99400077141,41.36698445555555,2.159896888888889,C Tres Pins 28,2004-03-18T12:45:00Z,Sants-Montjuïc,Contenidor Roba Amiga * CEIP Tres Pins,el Poble Sec,08038,Medi ambient
+99400077217,41.378460833333335,2.1509855,C Diputació 11,2004-03-19T09:30:00Z,Eixample,Contenidor de Roba Amiga *Institut Ernest Lluch,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400077217,41.378460833333335,2.1509855,C Diputació 11,2004-03-19T09:30:00Z,Eixample,Contenidor de Roba Amiga *Institut Ernest Lluch,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400077219,41.350716633333334,2.145059361111111,C Motors 130,2004-03-19T09:33:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES Mare de Deu de la Mercè,la Marina del Prat Vermell,08040,Medi ambient
+99400077219,41.350716633333334,2.145059361111111,C Motors 130,2004-03-19T09:33:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES Mare de Deu de la Mercè,la Marina del Prat Vermell,08040,Medi ambient
+99400077225,41.378460833333335,2.1509855,C Diputació 21,2004-03-19T09:48:00Z,Eixample,Contenidor de Roba Amiga *Escola Joan Miró,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400077225,41.378460833333335,2.1509855,C Diputació 21,2004-03-19T09:48:00Z,Eixample,Contenidor de Roba Amiga *Escola Joan Miró,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400077227,41.37007898888889,2.1474787777777777,C Dàlia 2b,2004-03-19T09:50:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES XXV Olimpiada,la Font de la Guatlla,08004,Medi ambient
+99400077227,41.37007898888889,2.1474787777777777,C Dàlia 2b,2004-03-19T09:50:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES XXV Olimpiada,la Font de la Guatlla,08004,Medi ambient
+99400077229,41.373080272222225,2.1743983055555556,C Carrera 25,2004-03-19T09:56:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES Consell de Cent,el Poble Sec,08004,Medi ambient
+99400077229,41.373080272222225,2.1743983055555556,C Carrera 25,2004-03-19T09:56:00Z,Sants-Montjuïc,Contenidor Roba Amiga * IES Consell de Cent,el Poble Sec,08004,Medi ambient
+99400077231,41.43290939722222,2.1439644166666665,Pl Mossèn Ferran Palau 1,2004-03-19T09:59:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Parròquia Sant Jeroni,Montbau,08035,Medi ambient
+99400077231,41.43290939722222,2.1439644166666665,Pl Mossèn Ferran Palau 1,2004-03-19T09:59:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Parròquia Sant Jeroni,Montbau,08035,Medi ambient
+99400121453,41.40843605833333,2.222228305555556,Av Litoral 115,2005-07-20T11:25:00Z,Sant Martí,Punt Verd de Zona - Deixalleria Fòrum,el Besòs i el Maresme,08005,Medi ambient
+99400121453,41.40843605833333,2.222228305555556,Av Litoral 115,2005-07-20T11:25:00Z,Sant Martí,Punt Verd de Zona - Deixalleria Fòrum,el Besòs i el Maresme,08005,Medi ambient
+99400145147,41.41663646666667,2.2133468333333335,C Cristóbal de Moura 227,2005-10-13T14:24:00Z,Sant Martí,Punt Verd Mòbil *Rambla Prim-Cristóbal de Moura,el Besòs i el Maresme,08019,Medi ambient
+99400145147,41.41663646666667,2.2133468333333335,C Cristóbal de Moura 227,2005-10-13T14:24:00Z,Sant Martí,Punt Verd Mòbil *Rambla Prim-Cristóbal de Moura,el Besòs i el Maresme,08019,Medi ambient
+99400155524,41.40285697777777,2.1231764444444443,C Anglí 55,2006-03-15T14:24:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Monastir de Sant Pere de les Puelles,Sarrià,08017,Medi ambient
+99400155524,41.40285697777777,2.1231764444444443,C Anglí 55,2006-03-15T14:24:00Z,Sarrià-Sant Gervasi,Contenidor Roba Amiga * Monastir de Sant Pere de les Puelles,Sarrià,08017,Medi ambient
+99400161240,41.376685888888886,2.1666691666666664,Pl Josep M Folch i Torres 1*LX bxs,2006-05-31T12:07:00Z,Ciutat Vella,Punt Verd de Barri - Folch i Torres,el Raval,08001,Medi ambient
+99400161240,41.376685888888886,2.1666691666666664,Pl Josep M Folch i Torres 1*LX bxs,2006-05-31T12:07:00Z,Ciutat Vella,Punt Verd de Barri - Folch i Torres,el Raval,08001,Medi ambient
+99400167570,41.39494804722222,2.200912138888889,C Taulat 1,2006-09-18T14:08:00Z,Sant Martí,Dipòsit d'aigües pluvials *Taulat,el Poblenou,08005,Medi ambient
+99400167570,41.39494804722222,2.200912138888889,C Taulat 1,2006-09-18T14:08:00Z,Sant Martí,Dipòsit d'aigües pluvials *Taulat,el Poblenou,08005,Medi ambient
+99400171807,41.41578985555555,2.2010659444444447,C Andrade 154,2006-11-14T11:30:00Z,Sant Martí,Punt Verd de Barri - Sant Martí de Provençals,Sant Martí de Provençals,08020,Medi ambient
+99400171807,41.41578985555555,2.2010659444444447,C Andrade 154,2006-11-14T11:30:00Z,Sant Martí,Punt Verd de Barri - Sant Martí de Provençals,Sant Martí de Provençals,08020,Medi ambient
+99400172226,41.39515719166667,2.182477472222222,C Alí Bei 89,2006-11-21T13:35:00Z,Eixample,Punt Verd de Barri - Fort Pienc,el Fort Pienc,08013,Medi ambient
+99400172226,41.39515719166667,2.182477472222222,C Alí Bei 89,2006-11-21T13:35:00Z,Eixample,Punt Verd de Barri - Fort Pienc,el Fort Pienc,08013,Medi ambient
+99400176674,41.41565981111111,2.2012279722222226,C Andrade 150,2007-01-30T14:25:00Z,Sant Martí,Contenidor Roba Amiga *Punt Verd de Barri Sant Martí de Provençals - Andrade,Sant Martí de Provençals,08020,Medi ambient
+99400176674,41.41565981111111,2.2012279722222226,C Andrade 150,2007-01-30T14:25:00Z,Sant Martí,Contenidor Roba Amiga *Punt Verd de Barri Sant Martí de Provençals - Andrade,Sant Martí de Provençals,08020,Medi ambient
+99400182683,41.37761722222222,2.134021638888889,C Joan Güell 30,2007-05-08T10:02:00Z,Sants-Montjuïc,Punt Verd Mòbil *Joan Güell,Sants,08028,Medi ambient
+99400182683,41.37761722222222,2.134021638888889,C Joan Güell 30,2007-05-08T10:02:00Z,Sants-Montjuïc,Punt Verd Mòbil *Joan Güell,Sants,08028,Medi ambient
+99400182684,41.37296406388889,2.128756,C Bacardí 33,2007-05-08T10:04:00Z,Sants-Montjuïc,Punt Verd Mòbil *Plaça Olivereta,Sants - Badal,08028,Medi ambient
+99400182684,41.37296406388889,2.128756,C Bacardí 33,2007-05-08T10:04:00Z,Sants-Montjuïc,Punt Verd Mòbil *Plaça Olivereta,Sants - Badal,08028,Medi ambient
+99400182686,41.37640143611111,2.136146222222222,Pg Sant Antoni 1,2007-05-08T10:06:00Z,Sants-Montjuïc,Punt Verd Mòbil *Passeig Sant Antoni-Galileu,Sants,08014,Medi ambient
+99400182686,41.37640143611111,2.136146222222222,Pg Sant Antoni 1,2007-05-08T10:06:00Z,Sants-Montjuïc,Punt Verd Mòbil *Passeig Sant Antoni-Galileu,Sants,08014,Medi ambient
+99400182699,41.36744890833334,2.139722388888889,Pl Sarah Bernhardt 1,2007-05-08T11:39:00Z,Sants-Montjuïc,Punt Verd Mòbil *Plaça Sara Bernhardt,la Marina de Port,08038,Medi ambient
+99400182699,41.36744890833334,2.139722388888889,Pl Sarah Bernhardt 1,2007-05-08T11:39:00Z,Sants-Montjuïc,Punt Verd Mòbil *Plaça Sara Bernhardt,la Marina de Port,08038,Medi ambient
+99400182700,41.37471278611111,2.1603579444444443,C Jaume Fabra 3,2007-05-08T11:41:00Z,Sants-Montjuïc,Punt Verd Mòbil *Avinguda Paral·lel-Jaume Fabra,el Poble-sec,08004,Medi ambient
+99400182700,41.37471278611111,2.1603579444444443,C Jaume Fabra 3,2007-05-08T11:41:00Z,Sants-Montjuïc,Punt Verd Mòbil *Avinguda Paral·lel-Jaume Fabra,el Poble-sec,08004,Medi ambient
+99400182701,41.38443948888889,2.130952111111111,Trav Corts 229,2007-05-08T11:47:00Z,Les Corts,Punt Verd Mòbil *Mercat de les Corts,Les Corts,08028,Medi ambient
+99400182701,41.38443948888889,2.130952111111111,Trav Corts 229,2007-05-08T11:47:00Z,Les Corts,Punt Verd Mòbil *Mercat de les Corts,Les Corts,08028,Medi ambient
+99400182702,41.39373020833333,2.1420168055555555,Av Pau Casals 17,2007-05-08T11:49:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Turó Parc,Sant Gervasi - Galvany,08021,Medi ambient
+99400182702,41.39373020833333,2.1420168055555555,Av Pau Casals 17,2007-05-08T11:49:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Turó Parc,Sant Gervasi - Galvany,08021,Medi ambient
+99400182703,41.394830641666665,2.124256472222222,C Fontcoberta 5,2007-05-08T11:51:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Jardins Can Senillosa-Fontcoberta,Sarrià,08034,Medi ambient
+99400182703,41.394830641666665,2.124256472222222,C Fontcoberta 5,2007-05-08T11:51:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Jardins Can Senillosa-Fontcoberta,Sarrià,08034,Medi ambient
+99400182706,41.401726591666666,2.1332291666666667,C Cerignola 3,2007-05-08T11:54:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Jardins Ferran Casablancas,Sant Gervasi - la Bonanova,08022,Medi ambient
+99400182706,41.401726591666666,2.1332291666666667,C Cerignola 3,2007-05-08T11:54:00Z,Sarrià-Sant Gervasi,Punt Verd Mòbil *Jardins Ferran Casablancas,Sant Gervasi - la Bonanova,08022,Medi ambient
+99400182707,41.40573019722222,2.1632321666666665,C Pi i Margall 6,2007-05-08T11:56:00Z,Gràcia,Punt Verd Mòbil *Escorial-Pi i Margall,el Camp d'en Grassot i Gràcia Nova,08025,Medi ambient
+99400182707,41.40573019722222,2.1632321666666665,C Pi i Margall 6,2007-05-08T11:56:00Z,Gràcia,Punt Verd Mòbil *Escorial-Pi i Margall,el Camp d'en Grassot i Gràcia Nova,08025,Medi ambient
+99400182708,41.41512751111111,2.1670117777777778,Av Mare Déu de Montserrat 84*B,2007-05-08T11:59:00Z,Horta-Guinardó,Punt Verd Mòbil *Plaça Font Castellana,el Baix Guinardó,08024,Medi ambient
+99400182708,41.41512751111111,2.1670117777777778,Av Mare Déu de Montserrat 84*B,2007-05-08T11:59:00Z,Horta-Guinardó,Punt Verd Mòbil *Plaça Font Castellana,el Baix Guinardó,08024,Medi ambient
+99400182710,41.430827988888886,2.163327944444444,C Cartellà 192,2007-05-08T12:02:00Z,Horta-Guinardó,Punt Verd Mòbil *Tajo-Cartellà,Horta,08031,Medi ambient
+99400182710,41.430827988888886,2.163327944444444,C Cartellà 192,2007-05-08T12:02:00Z,Horta-Guinardó,Punt Verd Mòbil *Tajo-Cartellà,Horta,08031,Medi ambient
+99400182712,41.42712562222222,2.1365865833333335,Av Jordà 29,2007-05-08T12:06:00Z,Horta-Guinardó,Punt Verd Mòbil *Jardins Manuel Arnalot,Sant Genís dels Agudells,08035,Medi ambient
+99400182712,41.42712562222222,2.1365865833333335,Av Jordà 29,2007-05-08T12:06:00Z,Horta-Guinardó,Punt Verd Mòbil *Jardins Manuel Arnalot,Sant Genís dels Agudells,08035,Medi ambient
+99400182713,41.43502548611111,2.179044111111111,C Pintor Alsamora 15,2007-05-08T12:08:00Z,Nou Barris,Punt Verd Mòbil *Avinguda Rio de Janeiro - Pintor Alsamora,Porta,08016,Medi ambient
+99400182713,41.43502548611111,2.179044111111111,C Pintor Alsamora 15,2007-05-08T12:08:00Z,Nou Barris,Punt Verd Mòbil *Avinguda Rio de Janeiro - Pintor Alsamora,Porta,08016,Medi ambient
+99400182714,41.443427980555555,2.168289722222222,C Antonio Machado 16,2007-05-08T12:10:00Z,Nou Barris,Punt Verd Mòbil *Antonio Machado - Federico García Lorca,Canyelles,08042,Medi ambient
+99400182714,41.443427980555555,2.168289722222222,C Antonio Machado 16,2007-05-08T12:10:00Z,Nou Barris,Punt Verd Mòbil *Antonio Machado - Federico García Lorca,Canyelles,08042,Medi ambient
+99400182715,41.442152763888885,2.1876681666666666,Pl Mossèn Clapés 20,2007-05-08T12:12:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Mossèn Clapés-Gran Sant Andreu,Sant Andreu,08030,Medi ambient
+99400182715,41.442152763888885,2.1876681666666666,Pl Mossèn Clapés 20,2007-05-08T12:12:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Mossèn Clapés-Gran Sant Andreu,Sant Andreu,08030,Medi ambient
+99400182716,41.43586388333333,2.1912458611111107,Pl Orfila 6,2007-05-08T12:13:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Orfila,Sant Andreu,08030,Medi ambient
+99400182716,41.43586388333333,2.1912458611111107,Pl Orfila 6,2007-05-08T12:13:00Z,Sant Andreu,Punt Verd Mòbil *Plaça Orfila,Sant Andreu,08030,Medi ambient
+99400182717,41.438809825,2.1984076388888885,C Sao Paulo 18,2007-05-08T12:14:00Z,Sant Andreu,Punt Verd Mòbil *Sao Paulo-Posoltega,el Bon Pastor,08030,Medi ambient
+99400182717,41.438809825,2.1984076388888885,C Sao Paulo 18,2007-05-08T12:14:00Z,Sant Andreu,Punt Verd Mòbil *Sao Paulo-Posoltega,el Bon Pastor,08030,Medi ambient
+99400182718,41.42179338611111,2.204701555555556,Rbla Guipúscoa 146,2007-05-08T12:17:00Z,Sant Martí,Punt Verd Mòbil *Rambla Prim-Guipúscoa,la Verneda i la Pau,08020,Medi ambient
+99400182718,41.42179338611111,2.204701555555556,Rbla Guipúscoa 146,2007-05-08T12:17:00Z,Sant Martí,Punt Verd Mòbil *Rambla Prim-Guipúscoa,la Verneda i la Pau,08020,Medi ambient
+99400182720,41.41882323888888,2.2051225000000003,C Andrade 222,2007-05-08T12:18:00Z,Sant Martí,Punt Verd Mòbil *Mercat Sant Martí,la Verneda i la Pau,08020,Medi ambient
+99400182720,41.41882323888888,2.2051225000000003,C Andrade 222,2007-05-08T12:18:00Z,Sant Martí,Punt Verd Mòbil *Mercat Sant Martí,la Verneda i la Pau,08020,Medi ambient
+99400182721,41.395201022222224,2.1876693888888887,C Almogàvers 74,2007-05-08T12:20:00Z,Sant Martí,Punt Verd Mòbil *Marina - Almogàvers,el Parc i la Llacuna del Poblenou,08018,Medi ambient
+99400182721,41.395201022222224,2.1876693888888887,C Almogàvers 74,2007-05-08T12:20:00Z,Sant Martí,Punt Verd Mòbil *Marina - Almogàvers,el Parc i la Llacuna del Poblenou,08018,Medi ambient
+99400234223,41.37993241111111,2.125995666666667,Trav Corts 122,2009-10-21T14:37:00Z,Les Corts,Punt Verd de Barri - Barcardí,la Maternitat i Sant Ramon,08028,Medi ambient
+99400234223,41.37993241111111,2.125995666666667,Trav Corts 122,2009-10-21T14:37:00Z,Les Corts,Punt Verd de Barri - Barcardí,la Maternitat i Sant Ramon,08028,Medi ambient
+99400234956,41.38527153611111,2.1454975833333334,C Rocafort 226,2009-10-29T12:32:00Z,Eixample,Punt Verd de Barri - Nova Esquerra de l'Eixample,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400234956,41.38527153611111,2.1454975833333334,C Rocafort 226,2009-10-29T12:32:00Z,Eixample,Punt Verd de Barri - Nova Esquerra de l'Eixample,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400234963,41.42755829722222,2.157751861111111,C Dante Alighieri 77,2009-10-29T13:32:00Z,Horta-Guinardó,Punt Verd de Barri - Horta-Carmel,el Carmel,08032,Medi ambient
+99400234963,41.42755829722222,2.157751861111111,C Dante Alighieri 77,2009-10-29T13:32:00Z,Horta-Guinardó,Punt Verd de Barri - Horta-Carmel,el Carmel,08032,Medi ambient
+99400234967,41.43081348055555,2.169362111111111,Pg Peira 1,2009-10-29T14:26:00Z,Nou Barris,Punt Verd de Barri - Turó de la Peira,el Turó de la Peira,08031,Medi ambient
+99400234967,41.43081348055555,2.169362111111111,Pg Peira 1,2009-10-29T14:26:00Z,Nou Barris,Punt Verd de Barri - Turó de la Peira,el Turó de la Peira,08031,Medi ambient
+99400237316,41.46168736388889,2.1777943888888887,C Costabona 4*6,2009-11-30T14:49:00Z,Nou Barris,Punt Verd de Barri - Ciutat Meridiana,Ciutat Meridiana,08033,Medi ambient
+99400237316,41.46168736388889,2.1777943888888887,C Costabona 4*6,2009-11-30T14:49:00Z,Nou Barris,Punt Verd de Barri - Ciutat Meridiana,Ciutat Meridiana,08033,Medi ambient
+99400237319,41.44740822777777,2.180240583333333,C Aiguablava 1,None,Nou Barris,Punt Verd de Barri - Les Roquetes,la Trinitat Nova,08042,Medi ambient
+99400237319,41.44740822777777,2.180240583333333,C Aiguablava 1,None,Nou Barris,Punt Verd de Barri - Les Roquetes,la Trinitat Nova,08042,Medi ambient
+99400241707,41.429222108333335,2.1580143055555556,Ptge Tossa 18,2010-02-22T13:18:00Z,Horta-Guinardó,Punt Verd Mòbil *Passatge de Tossa-Lisboa,Horta,08032,Medi ambient
+99400241707,41.429222108333335,2.1580143055555556,Ptge Tossa 18,2010-02-22T13:18:00Z,Horta-Guinardó,Punt Verd Mòbil *Passatge de Tossa-Lisboa,Horta,08032,Medi ambient
+99400241720,41.42460784722222,2.1660301944444442,C Pedrell 58,2010-02-22T14:29:00Z,Horta-Guinardó,Punt Verd Mòbil *Pedrell,la Font d'en Fargues,08032,Medi ambient
+99400241720,41.42460784722222,2.1660301944444442,C Pedrell 58,2010-02-22T14:29:00Z,Horta-Guinardó,Punt Verd Mòbil *Pedrell,la Font d'en Fargues,08032,Medi ambient
+99400243066,41.41162903055555,2.144740166666667,Av República Argentina 110,2010-03-11T16:46:00Z,Gràcia,Punt Verd Mòbil *Avinguda República Argentina,Vallcarca i els Penitents,08023,Medi ambient
+99400243066,41.41162903055555,2.144740166666667,Av República Argentina 110,2010-03-11T16:46:00Z,Gràcia,Punt Verd Mòbil *Avinguda República Argentina,Vallcarca i els Penitents,08023,Medi ambient
+99400243067,41.411856058333335,2.1589439444444443,Trav Dalt 124,2010-03-11T17:23:00Z,Gràcia,Punt Verd Mòbil *Travessera de Dalt-Alegre de Dalt,la Salut,08024,Medi ambient
+99400243067,41.411856058333335,2.1589439444444443,Trav Dalt 124,2010-03-11T17:23:00Z,Gràcia,Punt Verd Mòbil *Travessera de Dalt-Alegre de Dalt,la Salut,08024,Medi ambient
+99400249638,41.41490098333333,2.1948027777777774,Rbla Guipúscoa 29,2010-06-23T13:17:00Z,Sant Martí,Punt Verd Mòbil *Rambla Guipúscoa-Bac de Roda,Sant Martí de Provençals,08020,Medi ambient
+99400249638,41.41490098333333,2.1948027777777774,Rbla Guipúscoa 29,2010-06-23T13:17:00Z,Sant Martí,Punt Verd Mòbil *Rambla Guipúscoa-Bac de Roda,Sant Martí de Provençals,08020,Medi ambient
+99400249650,41.401321175,2.167784388888889,C Rosselló 339,2010-06-23T14:03:00Z,Gràcia,Punt Verd Mòbil *Passeig Sant Joan-Rosselló,el Camp d'en Grassot i Gràcia Nova,08037,Medi ambient
+99400249650,41.401321175,2.167784388888889,C Rosselló 339,2010-06-23T14:03:00Z,Gràcia,Punt Verd Mòbil *Passeig Sant Joan-Rosselló,el Camp d'en Grassot i Gràcia Nova,08037,Medi ambient
+99400250001,41.44845664444444,2.1838939166666664,C Chafarinas 18,2010-06-30T11:37:00Z,Nou Barris,Punt Verd Mòbil *Mercat Trinitat,la Trinitat Nova,08033,Medi ambient
+99400250001,41.44845664444444,2.1838939166666664,C Chafarinas 18,2010-06-30T11:37:00Z,Nou Barris,Punt Verd Mòbil *Mercat Trinitat,la Trinitat Nova,08033,Medi ambient
+99400250010,41.460433836111115,2.1805973888888888,C Sant Feliu de Codines 2,2010-06-30T12:21:00Z,Nou Barris,Punt Verd Mòbil *CAP Ciutat Meridiana - Sant Feliu Codines - Avinguda Vallbona,Torre Baró,08033,Medi ambient
+99400250010,41.460433836111115,2.1805973888888888,C Sant Feliu de Codines 2,2010-06-30T12:21:00Z,Nou Barris,Punt Verd Mòbil *CAP Ciutat Meridiana - Sant Feliu Codines - Avinguda Vallbona,Torre Baró,08033,Medi ambient
+99400250027,41.410056149999996,2.1979387777777775,C Perú 149,2010-06-30T13:15:00Z,Sant Martí,Punt Verd Mòbil *Plaça Espronceda - Perú,Provençals del Poblenou,08000,Medi ambient
+99400250027,41.410056149999996,2.1979387777777775,C Perú 149,2010-06-30T13:15:00Z,Sant Martí,Punt Verd Mòbil *Plaça Espronceda - Perú,Provençals del Poblenou,08000,Medi ambient
+99400257485,41.38596146388889,2.1532245555555556,C Comte d'Urgell 131,2010-10-14T13:17:00Z,Eixample,Dipòsit d'aigües pluvials *Urgell/Mallorca,la Nova Esquerra de l'Eixample,08036,Medi ambient
+99400257485,41.38596146388889,2.1532245555555556,C Comte d'Urgell 131,2010-10-14T13:17:00Z,Eixample,Dipòsit d'aigües pluvials *Urgell/Mallorca,la Nova Esquerra de l'Eixample,08036,Medi ambient
+99400260245,41.383883708333336,2.1667947777777776,C Montalegre 7 2n,2010-11-26T14:29:00Z,Ciutat Vella,Contenidor de Roba Amiga  *Pati Manning de l'Antiga Casa de la Caritat,el Raval,08001,Medi ambient
+99400260245,41.383883708333336,2.1667947777777776,C Montalegre 7 2n,2010-11-26T14:29:00Z,Ciutat Vella,Contenidor de Roba Amiga  *Pati Manning de l'Antiga Casa de la Caritat,el Raval,08001,Medi ambient
+99400260246,41.37541928888889,2.1823758888888887,Moll Espanya 5*6,2010-11-26T14:32:00Z,Ciutat Vella,Contenidor de Roba Amiga *Centre Comercial Maremagnum,el Barri Gòtic,08039,Medi ambient
+99400260246,41.37541928888889,2.1823758888888887,Moll Espanya 5*6,2010-11-26T14:32:00Z,Ciutat Vella,Contenidor de Roba Amiga *Centre Comercial Maremagnum,el Barri Gòtic,08039,Medi ambient
+99400260247,41.37649225277778,2.166987611111111,Pl Josep M Folch i Torres 1*LX,2010-11-26T14:37:00Z,Ciutat Vella,Contenidor Roba Amiga *Punt Verd de Barri Folch i Torres,el Raval,08001,Medi ambient
+99400260247,41.37649225277778,2.166987611111111,Pl Josep M Folch i Torres 1*LX,2010-11-26T14:37:00Z,Ciutat Vella,Contenidor Roba Amiga *Punt Verd de Barri Folch i Torres,el Raval,08001,Medi ambient
+99400260248,41.38781918611111,2.1788814444444444,C Jaume Giralt 49,2010-11-26T14:43:00Z,Ciutat Vella,Contenidor de Roba Amiga *Punt Verd de Barri Col·laborador Can Basilio,"Sant Pere, Santa Caterina i la Ribera",08003,Medi ambient
+99400260248,41.38781918611111,2.1788814444444444,C Jaume Giralt 49,2010-11-26T14:43:00Z,Ciutat Vella,Contenidor de Roba Amiga *Punt Verd de Barri Col·laborador Can Basilio,"Sant Pere, Santa Caterina i la Ribera",08003,Medi ambient
+99400260250,41.38590179444444,2.152223916666667,C Mallorca 106,2010-11-26T14:58:00Z,Eixample,Contenidor de Roba Amiga *Escola Auró,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400260250,41.38590179444444,2.152223916666667,C Mallorca 106,2010-11-26T14:58:00Z,Eixample,Contenidor de Roba Amiga *Escola Auró,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400260305,41.395134983333335,2.182741,C Alí Bei 89,2010-11-29T12:25:00Z,Eixample,Contenidor de Roba Amiga *Punt Verd Barri Fort Pienc,el Fort Pienc,08013,Medi ambient
+99400260305,41.395134983333335,2.182741,C Alí Bei 89,2010-11-29T12:25:00Z,Eixample,Contenidor de Roba Amiga *Punt Verd Barri Fort Pienc,el Fort Pienc,08013,Medi ambient
+99400260307,41.38095234722222,2.144838638888889,Av Roma 20,2010-11-29T12:31:00Z,Eixample,Contenidor de Roba Amiga *Jardins Safo,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400260307,41.38095234722222,2.144838638888889,Av Roma 20,2010-11-29T12:31:00Z,Eixample,Contenidor de Roba Amiga *Jardins Safo,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400260312,41.39643854166667,2.1635561944444444,C Provença 283,2010-11-29T12:50:00Z,Eixample,Contenidor de Roba Amiga *Col·legi Merced,la Dreta de l'Eixample,08037,Medi ambient
+99400260312,41.39643854166667,2.1635561944444444,C Provença 283,2010-11-29T12:50:00Z,Eixample,Contenidor de Roba Amiga *Col·legi Merced,la Dreta de l'Eixample,08037,Medi ambient
+99400260322,41.39619435833333,2.1841765,C Alí Bei 121,2010-11-29T13:14:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Lina Òdena,el Fort Pienc,08013,Medi ambient
+99400260322,41.39619435833333,2.1841765,C Alí Bei 121,2010-11-29T13:14:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Lina Òdena,el Fort Pienc,08013,Medi ambient
+99400260326,41.38175166388889,2.1543806388888886,C Viladomat 149,2010-11-29T13:25:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Paula Montal,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400260326,41.38175166388889,2.1543806388888886,C Viladomat 149,2010-11-29T13:25:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Paula Montal,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400260331,41.39476688888889,2.167817555555555,Ptge Rector Oliveras 2,2010-11-29T13:33:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Rector Oliveras,la Dreta de l'Eixample,08009,Medi ambient
+99400260331,41.39476688888889,2.167817555555555,Ptge Rector Oliveras 2,2010-11-29T13:33:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Rector Oliveras,la Dreta de l'Eixample,08009,Medi ambient
+99400260336,41.380100786111115,2.155436638888889,G.V. Corts Catalanes 477,2010-11-29T14:02:00Z,Eixample,Contenidor de Roba Amiga *Residència Francesc Layret,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400260336,41.380100786111115,2.155436638888889,G.V. Corts Catalanes 477,2010-11-29T14:02:00Z,Eixample,Contenidor de Roba Amiga *Residència Francesc Layret,la Nova Esquerra de l'Eixample,08015,Medi ambient
+99400260337,41.405458175,2.166889972222222,C Sant Antoni Maria Claret 62,2010-11-29T14:22:00Z,Gràcia,Contenidor de Roba Amiga *Jardins Interior Illa Sedeta,el Camp d'en Grassot i Gràcia Nova,08025,Medi ambient
+99400260337,41.405458175,2.166889972222222,C Sant Antoni Maria Claret 62,2010-11-29T14:22:00Z,Gràcia,Contenidor de Roba Amiga *Jardins Interior Illa Sedeta,el Camp d'en Grassot i Gràcia Nova,08025,Medi ambient
+99400260338,41.404737958333335,2.1691136388888888,C Sicília 287*LX,2010-11-29T14:27:00Z,Gràcia,Contenidor de Roba Amiga *Jardins Interior Illa Antoni Puigvert,el Camp d'en Grassot i Gràcia Nova,08025,Medi ambient
+99400260338,41.404737958333335,2.1691136388888888,C Sicília 287*LX,2010-11-29T14:27:00Z,Gràcia,Contenidor de Roba Amiga *Jardins Interior Illa Antoni Puigvert,el Camp d'en Grassot i Gràcia Nova,08025,Medi ambient
+99400260340,41.398866730555554,2.172727222222222,C Roger de Flor 194,2010-11-29T14:40:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Constança Aragó,la Dreta de l'Eixample,08013,Medi ambient
+99400260340,41.398866730555554,2.172727222222222,C Roger de Flor 194,2010-11-29T14:40:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Constança Aragó,la Dreta de l'Eixample,08013,Medi ambient
+99400260347,41.37909483333333,2.1559968055555556,C Calàbria 90*92,2010-11-29T14:50:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Maria Matilde Almendros,Sant Antoni,08015,Medi ambient
+99400260347,41.37909483333333,2.1559968055555556,C Calàbria 90*92,2010-11-29T14:50:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Maria Matilde Almendros,Sant Antoni,08015,Medi ambient
+99400260415,41.43953901388888,2.1866579444444443,Pl M Casablancas Joanico 4*LX,2010-11-30T12:14:00Z,Sant Andreu,Punt Verd de Barri - Sant Andreu Nord,Sant Andreu,08030,Medi ambient
+99400260415,41.43953901388888,2.1866579444444443,Pl M Casablancas Joanico 4*LX,2010-11-30T12:14:00Z,Sant Andreu,Punt Verd de Barri - Sant Andreu Nord,Sant Andreu,08030,Medi ambient
+99400260449,41.398214358333334,2.1622943055555557,C Roger de Llúria 132,2010-11-30T14:43:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Carme Biada,la Dreta de l'Eixample,08037,Medi ambient
+99400260449,41.398214358333334,2.1622943055555557,C Roger de Llúria 132,2010-11-30T14:43:00Z,Eixample,Contenidor de Roba Amiga *Jardins Interior Illa Carme Biada,la Dreta de l'Eixample,08037,Medi ambient
+99400260670,41.42755829722222,2.157751861111111,C Dante Alighieri 77,2010-12-02T15:02:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Punt Verd Barri Horta - Carmel,el Carmel,08032,Medi ambient
+99400260670,41.42755829722222,2.157751861111111,C Dante Alighieri 77,2010-12-02T15:02:00Z,Horta-Guinardó,Contenidor de Roba Amiga *Punt Verd Barri Horta - Carmel,el Carmel,08032,Medi ambient
+99400262792,41.385700344444444,2.1379918055555556,C Nicaragua 101,2011-01-11T12:08:00Z,Les Corts,Punt Verd de Barri - Les Corts,Les Corts,08029,Medi ambient
+99400262792,41.385700344444444,2.1379918055555556,C Nicaragua 101,2011-01-11T12:08:00Z,Les Corts,Punt Verd de Barri - Les Corts,Les Corts,08029,Medi ambient
+99400262801,41.43499029722222,2.1663741944444443,C Darnius 9,2011-01-11T13:07:00Z,Nou Barris,Punt Verd Mòbil *Darnius-Espinauga,Can Peguera,08031,Medi ambient
+99400262801,41.43499029722222,2.1663741944444443,C Darnius 9,2011-01-11T13:07:00Z,Nou Barris,Punt Verd Mòbil *Darnius-Espinauga,Can Peguera,08031,Medi ambient
+99400274262,41.37155332222222,2.142039722222222,C Corral 2,None,Sants-Montjuïc,Punt Verd de Barri - La Bordeta,la Bordeta,08014,Medi ambient
+99400274262,41.37155332222222,2.142039722222222,C Corral 2,None,Sants-Montjuïc,Punt Verd de Barri - La Bordeta,la Bordeta,08014,Medi ambient
+99400274395,41.39553585,2.2042905000000004,C Carmen Amaya 10,2011-07-13T12:11:00Z,Sant Martí,Punt Verd de Barri - Poblenou,el Poblenou,08005,Medi ambient
+99400274395,41.39553585,2.2042905000000004,C Carmen Amaya 10,2011-07-13T12:11:00Z,Sant Martí,Punt Verd de Barri - Poblenou,el Poblenou,08005,Medi ambient
+99400286094,41.42157912222222,2.118715888888889,Pl Tibidabo 1,2012-02-01T14:42:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Plaça Tibidabo,"Vallvidrera, el Tibidabo i les Planes",08035,Medi ambient
+99400286094,41.42157912222222,2.118715888888889,Pl Tibidabo 1,2012-02-01T14:42:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Plaça Tibidabo,"Vallvidrera, el Tibidabo i les Planes",08035,Medi ambient
+99400286095,41.41366043611111,2.1050005833333336,C Queralt 1,2012-02-01T16:11:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Escales Carrer Queralt,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286095,41.41366043611111,2.1050005833333336,C Queralt 1,2012-02-01T16:11:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Escales Carrer Queralt,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286096,41.41589631944444,2.105915,C Navarro i Reverter 18*LB,2012-02-01T16:19:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Navarro i Reverter - Manelic,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286096,41.41589631944444,2.105915,C Navarro i Reverter 18*LB,2012-02-01T16:19:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Navarro i Reverter - Manelic,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286099,41.41203667222222,2.100231416666667,C Espinagosa 11,2012-02-01T16:31:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Espinagosa - Passatge Negociant,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286099,41.41203667222222,2.100231416666667,C Espinagosa 11,2012-02-01T16:31:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Espinagosa - Passatge Negociant,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286100,41.41210061388889,2.1035904722222223,C Turó 2,2012-02-01T16:40:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Mont d'Orsà - Turó,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286100,41.41210061388889,2.1035904722222223,C Turó 2,2012-02-01T16:40:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Mont d'Orsà - Turó,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286101,41.429367424999995,2.095270166666667,C Marco Polo 32,2012-02-01T17:09:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Major de Rectoret - Marco Polo,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286101,41.429367424999995,2.095270166666667,C Marco Polo 32,2012-02-01T17:09:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Major de Rectoret - Marco Polo,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286102,41.42516221666666,2.0937235833333334,C Margalló 2,2012-02-01T17:53:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Vesc - Margalló,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286102,41.42516221666666,2.0937235833333334,C Margalló 2,2012-02-01T17:53:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Vesc - Margalló,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286104,41.42819485833333,2.0994744444444446,C Violer 10,2012-02-01T17:59:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Violer - Madame Buterfly,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286104,41.42819485833333,2.0994744444444446,C Violer 10,2012-02-01T17:59:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Violer - Madame Buterfly,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286105,41.41097420833333,2.112134111111111,C Palafolls 1,2012-02-01T18:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Palafolls - Bosc,Sarrià,08017,Medi ambient
+99400286105,41.41097420833333,2.112134111111111,C Palafolls 1,2012-02-01T18:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Palafolls - Bosc,Sarrià,08017,Medi ambient
+99400286106,41.40944213333333,2.1138922222222223,C Palafolls 28,2012-02-01T18:56:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Palafolls,Sarrià,08017,Medi ambient
+99400286106,41.40944213333333,2.1138922222222223,C Palafolls 28,2012-02-01T18:56:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Palafolls,Sarrià,08017,Medi ambient
+99400286143,41.41360880833333,2.109767027777778,Camí Boscà 10,2012-02-02T09:12:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Boscà,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286143,41.41360880833333,2.109767027777778,Camí Boscà 10,2012-02-02T09:12:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Boscà,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286145,41.413355949999996,2.1120146944444445,C Font del Mont 24,2012-02-02T09:14:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Font del Mont,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286145,41.413355949999996,2.1120146944444445,C Font del Mont 24,2012-02-02T09:14:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Font del Mont,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286146,41.40762011666666,2.1046226944444446,Camí Gírgola 9,2012-02-02T09:16:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí de la Gírgola,Sarrià,08017,Medi ambient
+99400286146,41.40762011666666,2.1046226944444446,Camí Gírgola 9,2012-02-02T09:16:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí de la Gírgola,Sarrià,08017,Medi ambient
+99400286147,41.42367474444444,2.0894617222222225,Pg Vimetera 26,2012-02-02T09:20:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Vimetera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286147,41.42367474444444,2.0894617222222225,Pg Vimetera 26,2012-02-02T09:20:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Vimetera,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286148,41.422607202777776,2.087557388888889,Pg Anna Rúbies 1,2012-02-02T09:26:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Pi Forcat - Passeig Anna Rubies,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286148,41.422607202777776,2.087557388888889,Pg Anna Rúbies 1,2012-02-02T09:26:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Passeig Pi Forcat - Passeig Anna Rubies,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286149,41.41294208611111,2.099528916666667,C Fonolleda 19,2012-02-02T09:42:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Pelfort - Fonolleda,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286149,41.41294208611111,2.099528916666667,C Fonolleda 19,2012-02-02T09:42:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Pelfort - Fonolleda,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286151,41.41473960277778,2.11174,T Font del Mont 11,2012-02-02T09:46:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torrent Font Mont,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286151,41.41473960277778,2.11174,T Font del Mont 11,2012-02-02T09:46:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torrent Font Mont,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286153,41.42411930833333,2.095538972222222,C Bohemis 34,2012-02-02T09:49:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Bohemis,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286153,41.42411930833333,2.095538972222222,C Bohemis 34,2012-02-02T09:49:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Bohemis,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286155,41.42550563333333,2.0991303888888893,C Gardènia 2,2012-02-02T09:51:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Gardènia,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286155,41.42550563333333,2.0991303888888893,C Gardènia 2,2012-02-02T09:51:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Gardènia,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286157,41.41991343611111,2.102442972222222,Camí Salze 13,2012-02-02T09:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Escola Els Xiprers,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286157,41.41991343611111,2.102442972222222,Camí Salze 13,2012-02-02T09:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Escola Els Xiprers,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286160,41.42630093333333,2.1531342777777778,C Farnés 60,2012-02-02T10:10:00Z,Horta-Guinardó,Contenidor de Sal *Escola Taxonera,el Carmel,08032,Medi ambient
+99400286160,41.42630093333333,2.1531342777777778,C Farnés 60,2012-02-02T10:10:00Z,Horta-Guinardó,Contenidor de Sal *Escola Taxonera,el Carmel,08032,Medi ambient
+99400286161,41.428019194444445,2.1434320277777776,Pg Vall d'Hebron 119,2012-02-02T10:15:00Z,Horta-Guinardó,Contenidor de Sal *Hospital Vall d'Hebron,Montbau,08035,Medi ambient
+99400286161,41.428019194444445,2.1434320277777776,Pg Vall d'Hebron 119,2012-02-02T10:15:00Z,Horta-Guinardó,Contenidor de Sal *Hospital Vall d'Hebron,Montbau,08035,Medi ambient
+99400286163,41.45760339444445,2.1790643055555554,Av Escolapi Càncer 39,2012-02-02T10:40:00Z,Nou Barris,Contenidor de Sal *Associació Veïns Torre Baró,Torre Baró,08033,Medi ambient
+99400286163,41.45760339444445,2.1790643055555554,Av Escolapi Càncer 39,2012-02-02T10:40:00Z,Nou Barris,Contenidor de Sal *Associació Veïns Torre Baró,Torre Baró,08033,Medi ambient
+99400286164,41.46010225277778,2.1695203055555554,Av Rasos de Peguera 232,2012-02-02T10:43:00Z,Nou Barris,Contenidor de Sal *Escola Sant Joan de la Creu,Ciutat Meridiana,08033,Medi ambient
+99400286164,41.46010225277778,2.1695203055555554,Av Rasos de Peguera 232,2012-02-02T10:43:00Z,Nou Barris,Contenidor de Sal *Escola Sant Joan de la Creu,Ciutat Meridiana,08033,Medi ambient
+99400286165,41.46109963333333,2.179073388888889,C Vallcivera 12,2012-02-02T10:46:00Z,Nou Barris,Contenidor de Sal *Vallcivera,Ciutat Meridiana,08033,Medi ambient
+99400286165,41.46109963333333,2.179073388888889,C Vallcivera 12,2012-02-02T10:46:00Z,Nou Barris,Contenidor de Sal *Vallcivera,Ciutat Meridiana,08033,Medi ambient
+99400286169,41.41913775555555,2.0978730277777777,Ctra Vallvidrera Planes 6.5,2012-02-02T12:00:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Zona de Vianants entre l'Estació  de FCG i el Centre Cívic l'Elèctric,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286169,41.41913775555555,2.0978730277777777,Ctra Vallvidrera Planes 6.5,2012-02-02T12:00:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Zona de Vianants entre l'Estació  de FCG i el Centre Cívic l'Elèctric,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286171,41.42983768055555,2.099638166666667,C Nebuloses 13,2012-02-02T12:06:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Nebuloses,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286171,41.42983768055555,2.099638166666667,C Nebuloses 13,2012-02-02T12:06:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Nebuloses,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286173,41.42774083333333,2.092058277777778,Pl Major del Rectoret 1,2012-02-02T12:14:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Plaça Major del Rectoret - Escales Parsifal,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286173,41.42774083333333,2.092058277777778,Pl Major del Rectoret 1,2012-02-02T12:14:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Plaça Major del Rectoret - Escales Parsifal,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286174,41.408262125,2.1073885555555556,C Carroç 20,2012-02-02T12:28:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Carroç - Pau Feu,Sarrià,08017,Medi ambient
+99400286174,41.408262125,2.1073885555555556,C Carroç 20,2012-02-02T12:28:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Carroç - Pau Feu,Sarrià,08017,Medi ambient
+99400286175,41.408356919444444,2.1058364166666665,C Comandant Llança 2,2012-02-02T12:33:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Carroç - Comandant Llançà,Sarrià,08017,Medi ambient
+99400286175,41.408356919444444,2.1058364166666665,C Comandant Llança 2,2012-02-02T12:33:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Carroç - Comandant Llançà,Sarrià,08017,Medi ambient
+99400286179,41.40861611388889,2.1049440833333333,C Carroç 63,2012-02-02T13:00:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Carroç - Carretera de les Aigües,Sarrià,08017,Medi ambient
+99400286179,41.40861611388889,2.1049440833333333,C Carroç 63,2012-02-02T13:00:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Carroç - Carretera de les Aigües,Sarrià,08017,Medi ambient
+99400286181,41.421448166666664,2.0872924444444445,Ptge Grèvol 10,2012-02-02T13:16:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Azalea - Passatge Grèvol,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286181,41.421448166666664,2.0872924444444445,Ptge Grèvol 10,2012-02-02T13:16:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Azalea - Passatge Grèvol,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286182,41.42050211388889,2.081861361111111,Camí Can Balasch 2,2012-02-02T13:27:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Can Balasch - Camí de Can Fortuny,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286182,41.42050211388889,2.081861361111111,Camí Can Balasch 2,2012-02-02T13:27:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí Can Balasch - Camí de Can Fortuny,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286188,41.412559030555556,2.10679275,Drec Vallvidrera 40,2012-02-02T16:27:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Ja Hi Som,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286188,41.412559030555556,2.10679275,Drec Vallvidrera 40,2012-02-02T16:27:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Ja Hi Som,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286189,41.415085319444444,2.10277875,C Reis Catòlics 16,2012-02-02T16:33:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Reis Catòlics,"Vallvidrera, el Tibidabo i les Planes",08000,Medi ambient
+99400286189,41.415085319444444,2.10277875,C Reis Catòlics 16,2012-02-02T16:33:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Reis Catòlics,"Vallvidrera, el Tibidabo i les Planes",08000,Medi ambient
+99400286202,41.41835733611111,2.0966683611111114,Camí Font dels Pins 16,2012-02-02T16:49:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí de la Font dels Pins (baix de Mas Sauró),"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286202,41.41835733611111,2.0966683611111114,Camí Font dels Pins 16,2012-02-02T16:49:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Camí de la Font dels Pins (baix de Mas Sauró),"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286204,41.420408155555556,2.086752611111111,C Azalea 32,2012-02-02T16:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Azalea - Mas Guimbau,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286204,41.420408155555556,2.086752611111111,C Azalea 32,2012-02-02T16:54:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Azalea - Mas Guimbau,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286207,41.411871363888885,2.105547777777778,Camí Torre de Sansalvador 9,2012-02-02T17:07:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torre de Sant Salvador,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400286207,41.411871363888885,2.105547777777778,Camí Torre de Sansalvador 9,2012-02-02T17:07:00Z,Sarrià-Sant Gervasi,Contenidor de Sal *Torre de Sant Salvador,"Vallvidrera, el Tibidabo i les Planes",08017,Medi ambient
+99400301999,41.43081348055555,2.169362111111111,Pg Peira 1,2012-10-01T14:33:00Z,Nou Barris,Contenidor Roba Amiga *Punt Verd de Barri Turó de la Peira,el Turó de la Peira,08031,Medi ambient
+99400301999,41.43081348055555,2.169362111111111,Pg Peira 1,2012-10-01T14:33:00Z,Nou Barris,Contenidor Roba Amiga *Punt Verd de Barri Turó de la Peira,el Turó de la Peira,08031,Medi ambient
+99400302001,41.385700344444444,2.1379918055555556,C Nicaragua 101,2012-10-01T14:38:00Z,Les Corts,Contenidor Roba Amiga *Punt Verd de Barri Les Corts,Les Corts,08029,Medi ambient
+99400302001,41.385700344444444,2.1379918055555556,C Nicaragua 101,2012-10-01T14:38:00Z,Les Corts,Contenidor Roba Amiga *Punt Verd de Barri Les Corts,Les Corts,08029,Medi ambient
+99400302004,41.43955245555555,2.186625361111111,Pl M Casablancas Joanico 4*LX,2012-10-01T14:41:00Z,Sant Andreu,Contenidor Roba Amiga *Punt Verd de Barri Sant Andreu Nord,Sant Andreu,08030,Medi ambient
+99400302004,41.43955245555555,2.186625361111111,Pl M Casablancas Joanico 4*LX,2012-10-01T14:41:00Z,Sant Andreu,Contenidor Roba Amiga *Punt Verd de Barri Sant Andreu Nord,Sant Andreu,08030,Medi ambient
+99400302006,41.37993241111111,2.125995666666667,Trav Corts 122,2012-10-01T14:44:00Z,Les Corts,Contenidor Roba Amiga *Punt Verd de Barri Bacardí,la Maternitat i Sant Ramon,08028,Medi ambient
+99400302006,41.37993241111111,2.125995666666667,Trav Corts 122,2012-10-01T14:44:00Z,Les Corts,Contenidor Roba Amiga *Punt Verd de Barri Bacardí,la Maternitat i Sant Ramon,08028,Medi ambient
+99400302008,41.46168736388889,2.1777943888888887,C Costabona 4*6,2012-10-01T14:46:00Z,Nou Barris,Contenidor Roba Amiga *Punt Verd de Barri Ciutat Meridiana,Ciutat Meridiana,08033,Medi ambient
+99400302008,41.46168736388889,2.1777943888888887,C Costabona 4*6,2012-10-01T14:46:00Z,Nou Barris,Contenidor Roba Amiga *Punt Verd de Barri Ciutat Meridiana,Ciutat Meridiana,08033,Medi ambient
+99400302009,41.37155332222222,2.142039722222222,C Corral 2,2012-10-01T14:50:00Z,Sants-Montjuïc,Contenidor Roba Amiga *Punt Verd de Barri La Bordeta,la Bordeta,08014,Medi ambient
+99400302009,41.37155332222222,2.142039722222222,C Corral 2,2012-10-01T14:50:00Z,Sants-Montjuïc,Contenidor Roba Amiga *Punt Verd de Barri La Bordeta,la Bordeta,08014,Medi ambient
+99400302010,41.44740822777777,2.180240583333333,C Aiguablava 1,2012-10-01T14:52:00Z,Nou Barris,Contenidor Roba Amiga *Punt Verd de Barri Les Roquetes,la Trinitat Nova,08042,Medi ambient
+99400302010,41.44740822777777,2.180240583333333,C Aiguablava 1,2012-10-01T14:52:00Z,Nou Barris,Contenidor Roba Amiga *Punt Verd de Barri Les Roquetes,la Trinitat Nova,08042,Medi ambient
+99400302013,41.38527153611111,2.1454975833333334,C Rocafort 226,2012-10-01T14:56:00Z,Eixample,Contenidor Roba Amiga *Punt Verd de Barri Nova Esquerrra de l'Eixample,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400302013,41.38527153611111,2.1454975833333334,C Rocafort 226,2012-10-01T14:56:00Z,Eixample,Contenidor Roba Amiga *Punt Verd de Barri Nova Esquerrra de l'Eixample,la Nova Esquerra de l'Eixample,08029,Medi ambient
+99400302015,41.39402733055555,2.2024280555555555,C Carmen Amaya 2,2012-10-01T14:59:00Z,Sant Martí,Contenidor Roba Amiga *Punt Verd de Barri Poblenou,el Poblenou,08005,Medi ambient
+99400302015,41.39402733055555,2.2024280555555555,C Carmen Amaya 2,2012-10-01T14:59:00Z,Sant Martí,Contenidor Roba Amiga *Punt Verd de Barri Poblenou,el Poblenou,08005,Medi ambient
+99400315466,41.38170833888889,2.1917925277777774,Pg Salvat Papasseit 3,2013-04-11T14:52:00Z,Ciutat Vella,Punt Verd de Barri - Barceloneta,la Barceloneta,08003,Medi ambient
+99400315466,41.38170833888889,2.1917925277777774,Pg Salvat Papasseit 3,2013-04-11T14:52:00Z,Ciutat Vella,Punt Verd de Barri - Barceloneta,la Barceloneta,08003,Medi ambient
+99400323050,41.43202974722222,2.1545414166666665,C Jerez 14,2013-07-30T10:42:00Z,Horta-Guinardó,Dipòsit d'aigües pluvials *Parc de les Rieres d'Horta,Horta,08032,Medi ambient
+99400323050,41.43202974722222,2.1545414166666665,C Jerez 14,2013-07-30T10:42:00Z,Horta-Guinardó,Dipòsit d'aigües pluvials *Parc de les Rieres d'Horta,Horta,08032,Medi ambient
+99400334327,41.39961618611111,2.155341111111111,Trav Gràcia 116,2014-01-15T14:06:00Z,Gràcia,Punt Verd Mòbil *Travessera de Gràcia-Gran de Gràcia,la Vila de Gràcia,08012,Medi ambient
+99400334327,41.39961618611111,2.155341111111111,Trav Gràcia 116,2014-01-15T14:06:00Z,Gràcia,Punt Verd Mòbil *Travessera de Gràcia-Gran de Gràcia,la Vila de Gràcia,08012,Medi ambient

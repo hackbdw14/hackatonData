@@ -1,0 +1,11 @@
+A.csv
+Nivel de seguridad (índice) por distrito y año (ciudad y el propio barrio)
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap08/C0804060.htm
+
+B.csv
+Índice de victimización y denuncia por distritos
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap08/C0804010.htm
+
+C.csv
+Tipos de denuncia por distritos
+http://www.bcn.cat/estadistica/catala/dades/anuari/cap08/C0802050.htm
