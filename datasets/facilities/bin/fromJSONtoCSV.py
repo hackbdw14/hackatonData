@@ -27,21 +27,24 @@ for name in ['allotjament','centres_informacio','comercial','cultura','educacio'
     myHeader = ['id','lat','lon','address','created','district','name','neighborhood','postalCode','cat']
 
     for feature in myJSON['features']:
-        oneData = {}
 
-        oneData['lat'] = feature['geometry']['coordinates'][1]
-        oneData['lon'] = feature['geometry']['coordinates'][0]
-        oneData['id'] = feature['id']
-        for name in ['address','created','district','name','neighborhood','postalCode']:
-            if name in feature['properties']:
-                oneData[name] = feature['properties'][name].encode("utf8")
-            else:
-                oneData[name] = "None"
 
         for cat in feature['properties']['cats']:
+            oneData = {}
+            oneData['lat'] = feature['geometry']['coordinates'][1]
+            oneData['lon'] = feature['geometry']['coordinates'][0]
+            oneData['id'] = feature['id']
+
+            for name in ['address','created','district','name','neighborhood','postalCode']:
+                if name in feature['properties']:
+                    oneData[name] = feature['properties'][name].encode("utf8")
+                else:
+                    oneData[name] = "None"
+
             oneData['cat'] = cat.encode("utf8")
             myData.append(oneData)
 
+    #pprint.pprint(myData)
 
     fileOut = open(FILE_OUT,"wb")
 
