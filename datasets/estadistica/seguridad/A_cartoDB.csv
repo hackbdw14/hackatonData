@@ -1,11 +1,11 @@
-distrito_id,distrito_name,2009,2010,2011,2012,2013
+distrito_id,distrito_name,indice_2009,indice_2010,indice_2011,indice_2012,indice_2013
 1,Ciutat Vella  ,4.9,4.9,4.8,5.2,5.2
 2,Eixample  ,6.4,6.4,6.5,6.6,6.7
-3,Sants-Montjuïc  ,5.6,5.6,6.0,5.8,5.8
-4,Les Corts  ,6.8,6.8,6.9,7.0,6.9
+3,Sants-Montjuïc  ,5.6,5.6,6,5.8,5.8
+4,Les Corts  ,6.8,6.8,6.9,7,6.9
 5,Sarrià-Sant Gervasi  ,6.6,6.6,6.5,6.9,6.9
 6,Gràcia  ,6.7,6.7,6.8,6.9,6.6
 7,Horta-Guinardó  ,6.3,6.3,6.4,6.4,6.3
-8,Nou Barris  ,6.0,6.0,6.0,5.8,5.7
-9,Sant Andreu  ,6.0,6.0,6.2,6.3,6.0
-10,Sant Martí  ,5.9,5.9,6.0,6.1,5.9
+8,Nou Barris  ,6,6,6,5.8,5.7
+9,Sant Andreu  ,6,6,6.2,6.3,6
+10,Sant Martí  ,5.9,5.9,6,6.1,5.9
