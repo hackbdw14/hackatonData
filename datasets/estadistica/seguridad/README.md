@@ -3,6 +3,10 @@ A.csv
 Nivel de seguridad (índice) por distrito y año (ciudad y el propio barrio)
 http://www.bcn.cat/estadistica/catala/dades/anuari/cap08/C0804060.htm
 
+A_cartoDB.csv
+-------------
+Ídem al anterior, pero limpio y listo para importar y mezclar
+
 B.csv
 -----
 Índice de victimización y denuncia por distritos
